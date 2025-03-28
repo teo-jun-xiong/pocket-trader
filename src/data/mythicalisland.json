@@ -1,0 +1,387 @@
+[
+  {
+    "setNumber": "1",
+    "rarity": "1d",
+    "cardName": "Exeggcute"
+  },
+  {
+    "setNumber": "2",
+    "rarity": "2d",
+    "cardName": "Exeggutor"
+  },
+  {
+    "setNumber": "3",
+    "rarity": "4d",
+    "cardName": "Celebi ex"
+  },
+  {
+    "setNumber": "4",
+    "rarity": "1d",
+    "cardName": "Snivy"
+  },
+  {
+    "setNumber": "5",
+    "rarity": "2d",
+    "cardName": "Servine"
+  },
+  {
+    "setNumber": "6",
+    "rarity": "3d",
+    "cardName": "Serperior"
+  },
+  {
+    "setNumber": "7",
+    "rarity": "1d",
+    "cardName": "Morelull"
+  },
+  {
+    "setNumber": "8",
+    "rarity": "2d",
+    "cardName": "Shiinotic"
+  },
+  {
+    "setNumber": "9",
+    "rarity": "2d",
+    "cardName": "Dhelmise"
+  },
+  {
+    "setNumber": "10",
+    "rarity": "1d",
+    "cardName": "Ponyta"
+  },
+  {
+    "setNumber": "11",
+    "rarity": "2d",
+    "cardName": "Rapidash"
+  },
+  {
+    "setNumber": "12",
+    "rarity": "2d",
+    "cardName": "Magmar"
+  },
+  {
+    "setNumber": "13",
+    "rarity": "1d",
+    "cardName": "Larvesta"
+  },
+  {
+    "setNumber": "14",
+    "rarity": "3d",
+    "cardName": "Volcarona"
+  },
+  {
+    "setNumber": "15",
+    "rarity": "1d",
+    "cardName": "Salandit"
+  },
+  {
+    "setNumber": "16",
+    "rarity": "1d",
+    "cardName": "Salazzle"
+  },
+  {
+    "setNumber": "17",
+    "rarity": "1d",
+    "cardName": "Magikarp"
+  },
+  {
+    "setNumber": "18",
+    "rarity": "4d",
+    "cardName": "Gyarados ex"
+  },
+  {
+    "setNumber": "19",
+    "rarity": "3d",
+    "cardName": "Vaporeon"
+  },
+  {
+    "setNumber": "20",
+    "rarity": "1d",
+    "cardName": "Finneon"
+  },
+  {
+    "setNumber": "21",
+    "rarity": "2d",
+    "cardName": "Lumineon"
+  },
+  {
+    "setNumber": "22",
+    "rarity": "1d",
+    "cardName": "Chewtle"
+  },
+  {
+    "setNumber": "23",
+    "rarity": "2d",
+    "cardName": "Drednaw"
+  },
+  {
+    "setNumber": "24",
+    "rarity": "1d",
+    "cardName": "Cramorant"
+  },
+  {
+    "setNumber": "25",
+    "rarity": "1d",
+    "cardName": "Pikachu"
+  },
+  {
+    "setNumber": "26",
+    "rarity": "3d",
+    "cardName": "Raichu"
+  },
+  {
+    "setNumber": "27",
+    "rarity": "2d",
+    "cardName": "Electabuzz"
+  },
+  {
+    "setNumber": "28",
+    "rarity": "1d",
+    "cardName": "Joltik"
+  },
+  {
+    "setNumber": "29",
+    "rarity": "2d",
+    "cardName": "Galvantula"
+  },
+  {
+    "setNumber": "30",
+    "rarity": "1d",
+    "cardName": "Dedenne"
+  },
+  {
+    "setNumber": "31",
+    "rarity": "3d",
+    "cardName": "Mew"
+  },
+  {
+    "setNumber": "32",
+    "rarity": "4d",
+    "cardName": "Mew ex"
+  },
+  {
+    "setNumber": "33",
+    "rarity": "2d",
+    "cardName": "Sigilyph"
+  },
+  {
+    "setNumber": "34",
+    "rarity": "1d",
+    "cardName": "Elgyem"
+  },
+  {
+    "setNumber": "35",
+    "rarity": "2d",
+    "cardName": "Beheeyem"
+  },
+  {
+    "setNumber": "36",
+    "rarity": "1d",
+    "cardName": "Flabébé"
+  },
+  {
+    "setNumber": "37",
+    "rarity": "1d",
+    "cardName": "Floette"
+  },
+  {
+    "setNumber": "38",
+    "rarity": "2d",
+    "cardName": "Florges"
+  },
+  {
+    "setNumber": "39",
+    "rarity": "1d",
+    "cardName": "Swirlix"
+  },
+  {
+    "setNumber": "40",
+    "rarity": "1d",
+    "cardName": "Slurpuff"
+  },
+  {
+    "setNumber": "41",
+    "rarity": "1d",
+    "cardName": "Mankey"
+  },
+  {
+    "setNumber": "42",
+    "rarity": "1d",
+    "cardName": "Primeape"
+  },
+  {
+    "setNumber": "43",
+    "rarity": "1d",
+    "cardName": "Geodude"
+  },
+  {
+    "setNumber": "44",
+    "rarity": "2d",
+    "cardName": "Graveler"
+  },
+  {
+    "setNumber": "45",
+    "rarity": "3d",
+    "cardName": "Golem"
+  },
+  {
+    "setNumber": "46",
+    "rarity": "4d",
+    "cardName": "Aerodactyl ex"
+  },
+  {
+    "setNumber": "47",
+    "rarity": "3d",
+    "cardName": "Marshadow"
+  },
+  {
+    "setNumber": "48",
+    "rarity": "2d",
+    "cardName": "Stonjourner"
+  },
+  {
+    "setNumber": "49",
+    "rarity": "1d",
+    "cardName": "Koffing"
+  },
+  {
+    "setNumber": "50",
+    "rarity": "2d",
+    "cardName": "Weezing"
+  },
+  {
+    "setNumber": "51",
+    "rarity": "1d",
+    "cardName": "Purrloin"
+  },
+  {
+    "setNumber": "52",
+    "rarity": "1d",
+    "cardName": "Liepard"
+  },
+  {
+    "setNumber": "53",
+    "rarity": "1d",
+    "cardName": "Venipede"
+  },
+  {
+    "setNumber": "54",
+    "rarity": "1d",
+    "cardName": "Whirlipede"
+  },
+  {
+    "setNumber": "55",
+    "rarity": "2d",
+    "cardName": "Scolipede"
+  },
+  {
+    "setNumber": "56",
+    "rarity": "2d",
+    "cardName": "Druddigon"
+  },
+  {
+    "setNumber": "57",
+    "rarity": "1d",
+    "cardName": "Pidgey"
+  },
+  {
+    "setNumber": "58",
+    "rarity": "1d",
+    "cardName": "Pidgeotto"
+  },
+  {
+    "setNumber": "59",
+    "rarity": "4d",
+    "cardName": "Pidgeot ex"
+  },
+  {
+    "setNumber": "60",
+    "rarity": "3d",
+    "cardName": "Tauros"
+  },
+  {
+    "setNumber": "61",
+    "rarity": "1d",
+    "cardName": "Eevee"
+  },
+  {
+    "setNumber": "62",
+    "rarity": "1d",
+    "cardName": "Chatot"
+  },
+  {
+    "setNumber": "69",
+    "rarity": "1s",
+    "cardName": "Exeggutor"
+  },
+  {
+    "setNumber": "70",
+    "rarity": "1s",
+    "cardName": "Serperior"
+  },
+  {
+    "setNumber": "71",
+    "rarity": "1s",
+    "cardName": "Salandit"
+  },
+  {
+    "setNumber": "72",
+    "rarity": "1s",
+    "cardName": "Vaporeon"
+  },
+  {
+    "setNumber": "73",
+    "rarity": "1s",
+    "cardName": "Dedenne"
+  },
+  {
+    "setNumber": "74",
+    "rarity": "1s",
+    "cardName": "Marshadow"
+  },
+  {
+    "setNumber": "75",
+    "rarity": "2s",
+    "cardName": "Celebi ex"
+  },
+  {
+    "setNumber": "76",
+    "rarity": "2s",
+    "cardName": "Gyarados ex"
+  },
+  {
+    "setNumber": "77",
+    "rarity": "2s",
+    "cardName": "Mew ex"
+  },
+  {
+    "setNumber": "78",
+    "rarity": "2s",
+    "cardName": "Aerodactyl ex"
+  },
+  {
+    "setNumber": "79",
+    "rarity": "2s",
+    "cardName": "Pidgeot ex"
+  },
+  {
+    "setNumber": "83",
+    "rarity": "2s",
+    "cardName": "Mew ex"
+  },
+  {
+    "setNumber": "84",
+    "rarity": "2s",
+    "cardName": "Aerodactyl ex"
+  },
+  {
+    "setNumber": "85",
+    "rarity": "3s",
+    "cardName": "Celebi ex"
+  },
+  {
+    "setNumber": "86",
+    "rarity": "1c",
+    "cardName": "Mew ex"
+  }
+]

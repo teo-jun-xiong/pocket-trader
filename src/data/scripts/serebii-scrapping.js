@@ -114,7 +114,7 @@ async function extractSetData(setName) {
   }
 
   const filteredRows = rows.map(({ imageUrl, ...rest }) => rest);
-  const outputFilePath = path.resolve(`src/data/${urlSetName}.json`);
+  const outputFilePath = path.resolve(`src/data/json/${urlSetName}.json`);
   fs.writeFileSync(
     outputFilePath,
     JSON.stringify(filteredRows, null, 2),

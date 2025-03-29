@@ -1,42 +1,42 @@
-import { chromium } from "playwright";
-import fs from "fs";
-import path from "path";
-import axios from "axios";
+import { chromium } from 'playwright';
+import fs from 'fs';
+import path from 'path';
+import axios from 'axios';
 
 async function extractSetData(setName) {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
-  const urlSetName = setName.toLowerCase().replace(/ /g, "");
+  const urlSetName = setName.toLowerCase().replace(/ /g, '');
 
   await page.goto(`https://www.serebii.net/tcgpocket/${urlSetName}/`);
 
-  const locator = page.locator("tr");
+  const locator = page.locator('tr');
   const rows = await locator.evaluateAll((rows, setName) => {
-    const urlSetName = setName.toLowerCase().replace(/ /g, "");
+    const urlSetName = setName.toLowerCase().replace(/ /g, '');
 
     function extractSetNumber(cell) {
       return cell.textContent
-        .replace(new RegExp(setName, "i"), "")
-        .replace(/[^0-9].*/, "")
+        .replace(new RegExp(setName, 'i'), '')
+        .replace(/[^0-9].*/, '')
         .trim();
     }
 
     function extractRarity(cell) {
       const map = {
-        diamond1: "1d",
-        diamond2: "2d",
-        diamond3: "3d",
-        diamond4: "4d",
-        star1: "1s",
-        star2: "2s",
-        star3: "3s",
-        crown: "1c",
+        diamond1: '1d',
+        diamond2: '2d',
+        diamond3: '3d',
+        diamond4: '4d',
+        star1: '1s',
+        star2: '2s',
+        star3: '3s',
+        crown: '1c',
       };
 
       const match = cell
-        .querySelectorAll("td img")[0]
+        .querySelectorAll('td img')[0]
         .src.match(/\/([^\/]+)\.png/);
-      return match ? map[match[1]] : "1d";
+      return match ? map[match[1]] : '1d';
     }
 
     function extractName(cell) {
@@ -50,10 +50,10 @@ async function extractSetData(setName) {
     return rows
       .filter(
         (row) =>
-          row.innerText.includes(setName) && row.innerText.includes("Weakness")
+          row.innerText.includes(setName) && row.innerText.includes('Weakness')
       )
       .map((row) => {
-        const cells = row.querySelectorAll("td");
+        const cells = row.querySelectorAll('td');
         const setNumber = extractSetNumber(cells[0]);
         const rarity = extractRarity(cells[0]);
         const cardName = extractName(cells[2]);
@@ -81,15 +81,15 @@ async function extractSetData(setName) {
 
     const response = await axios({
       url,
-      method: "GET",
-      responseType: "stream",
+      method: 'GET',
+      responseType: 'stream',
     });
 
     response.data.pipe(writer);
 
     return new Promise((resolve, reject) => {
-      writer.on("finish", resolve);
-      writer.on("error", reject);
+      writer.on('finish', resolve);
+      writer.on('error', reject);
     });
   }
 
@@ -118,17 +118,17 @@ async function extractSetData(setName) {
   fs.writeFileSync(
     outputFilePath,
     JSON.stringify(filteredRows, null, 2),
-    "utf-8"
+    'utf-8'
   );
   console.log(`Rows data written to ${outputFilePath}`);
 }
 
 const sets = [
-  "Genetic Apex",
-  "Mythical Island",
-  "Space-time Smackdown",
-  "Triumphant Light",
-  "Shining Revelry",
+  'Genetic Apex',
+  'Mythical Island',
+  'Space-time Smackdown',
+  'Triumphant Light',
+  'Shining Revelry',
 ];
 
 for (const set of sets) {

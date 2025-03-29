@@ -1,0 +1,442 @@
+[
+  {
+    "setNumber": "1",
+    "rarity": "2d",
+    "cardName": "Heracross"
+  },
+  {
+    "setNumber": "2",
+    "rarity": "1d",
+    "cardName": "Burmy"
+  },
+  {
+    "setNumber": "3",
+    "rarity": "2d",
+    "cardName": "Mothim"
+  },
+  {
+    "setNumber": "4",
+    "rarity": "1d",
+    "cardName": "Combee"
+  },
+  {
+    "setNumber": "5",
+    "rarity": "2d",
+    "cardName": "Vespiquen"
+  },
+  {
+    "setNumber": "6",
+    "rarity": "1d",
+    "cardName": "Cherubi"
+  },
+  {
+    "setNumber": "7",
+    "rarity": "2d",
+    "cardName": "Cherrim"
+  },
+  {
+    "setNumber": "8",
+    "rarity": "2d",
+    "cardName": "Cherrim"
+  },
+  {
+    "setNumber": "9",
+    "rarity": "3d",
+    "cardName": "Carnivine"
+  },
+  {
+    "setNumber": "10",
+    "rarity": "4d",
+    "cardName": "Leafeon ex"
+  },
+  {
+    "setNumber": "11",
+    "rarity": "1d",
+    "cardName": "Houndour"
+  },
+  {
+    "setNumber": "12",
+    "rarity": "2d",
+    "cardName": "Houndoom"
+  },
+  {
+    "setNumber": "13",
+    "rarity": "3d",
+    "cardName": "Heatran"
+  },
+  {
+    "setNumber": "14",
+    "rarity": "1d",
+    "cardName": "Marill"
+  },
+  {
+    "setNumber": "15",
+    "rarity": "1d",
+    "cardName": "Azumarill"
+  },
+  {
+    "setNumber": "16",
+    "rarity": "1d",
+    "cardName": "Barboach"
+  },
+  {
+    "setNumber": "17",
+    "rarity": "2d",
+    "cardName": "Whiscash"
+  },
+  {
+    "setNumber": "18",
+    "rarity": "1d",
+    "cardName": "Snorunt"
+  },
+  {
+    "setNumber": "19",
+    "rarity": "2d",
+    "cardName": "Froslass"
+  },
+  {
+    "setNumber": "20",
+    "rarity": "1d",
+    "cardName": "Snover"
+  },
+  {
+    "setNumber": "21",
+    "rarity": "3d",
+    "cardName": "Abomasnow"
+  },
+  {
+    "setNumber": "22",
+    "rarity": "4d",
+    "cardName": "Glaceon ex"
+  },
+  {
+    "setNumber": "23",
+    "rarity": "3d",
+    "cardName": "Origin Forme Palkia"
+  },
+  {
+    "setNumber": "24",
+    "rarity": "2d",
+    "cardName": "Phione"
+  },
+  {
+    "setNumber": "25",
+    "rarity": "1d",
+    "cardName": "Pikachu"
+  },
+  {
+    "setNumber": "26",
+    "rarity": "3d",
+    "cardName": "Raichu"
+  },
+  {
+    "setNumber": "27",
+    "rarity": "1d",
+    "cardName": "Electrike"
+  },
+  {
+    "setNumber": "28",
+    "rarity": "2d",
+    "cardName": "Manectric"
+  },
+  {
+    "setNumber": "29",
+    "rarity": "1d",
+    "cardName": "Clefairy"
+  },
+  {
+    "setNumber": "30",
+    "rarity": "2d",
+    "cardName": "Clefable"
+  },
+  {
+    "setNumber": "31",
+    "rarity": "1d",
+    "cardName": "Gastly"
+  },
+  {
+    "setNumber": "32",
+    "rarity": "1d",
+    "cardName": "Haunter"
+  },
+  {
+    "setNumber": "33",
+    "rarity": "2d",
+    "cardName": "Gengar"
+  },
+  {
+    "setNumber": "34",
+    "rarity": "2d",
+    "cardName": "Unown"
+  },
+  {
+    "setNumber": "35",
+    "rarity": "3d",
+    "cardName": "Rotom"
+  },
+  {
+    "setNumber": "36",
+    "rarity": "2d",
+    "cardName": "Sudowoodo"
+  },
+  {
+    "setNumber": "37",
+    "rarity": "1d",
+    "cardName": "Phanpy"
+  },
+  {
+    "setNumber": "38",
+    "rarity": "2d",
+    "cardName": "Donphan"
+  },
+  {
+    "setNumber": "39",
+    "rarity": "1d",
+    "cardName": "Larvitar"
+  },
+  {
+    "setNumber": "40",
+    "rarity": "2d",
+    "cardName": "Pupitar"
+  },
+  {
+    "setNumber": "41",
+    "rarity": "3d",
+    "cardName": "Tyranitar"
+  },
+  {
+    "setNumber": "42",
+    "rarity": "1d",
+    "cardName": "Nosepass"
+  },
+  {
+    "setNumber": "43",
+    "rarity": "1d",
+    "cardName": "Meditite"
+  },
+  {
+    "setNumber": "44",
+    "rarity": "2d",
+    "cardName": "Medicham"
+  },
+  {
+    "setNumber": "45",
+    "rarity": "1d",
+    "cardName": "Gible"
+  },
+  {
+    "setNumber": "46",
+    "rarity": "1d",
+    "cardName": "Gabite"
+  },
+  {
+    "setNumber": "47",
+    "rarity": "4d",
+    "cardName": "Garchomp ex"
+  },
+  {
+    "setNumber": "48",
+    "rarity": "1d",
+    "cardName": "Zubat"
+  },
+  {
+    "setNumber": "49",
+    "rarity": "1d",
+    "cardName": "Golbat"
+  },
+  {
+    "setNumber": "50",
+    "rarity": "3d",
+    "cardName": "Crobat"
+  },
+  {
+    "setNumber": "51",
+    "rarity": "1d",
+    "cardName": "Croagunk"
+  },
+  {
+    "setNumber": "52",
+    "rarity": "2d",
+    "cardName": "Toxicroak"
+  },
+  {
+    "setNumber": "53",
+    "rarity": "1d",
+    "cardName": "Magnemite"
+  },
+  {
+    "setNumber": "54",
+    "rarity": "1d",
+    "cardName": "Magneton"
+  },
+  {
+    "setNumber": "55",
+    "rarity": "3d",
+    "cardName": "Magnezone"
+  },
+  {
+    "setNumber": "56",
+    "rarity": "1d",
+    "cardName": "Mawile"
+  },
+  {
+    "setNumber": "57",
+    "rarity": "4d",
+    "cardName": "Probopass ex"
+  },
+  {
+    "setNumber": "58",
+    "rarity": "1d",
+    "cardName": "Bronzor"
+  },
+  {
+    "setNumber": "59",
+    "rarity": "2d",
+    "cardName": "Bronzong"
+  },
+  {
+    "setNumber": "60",
+    "rarity": "3d",
+    "cardName": "Origin Forme Dialga"
+  },
+  {
+    "setNumber": "61",
+    "rarity": "3d",
+    "cardName": "Giratina"
+  },
+  {
+    "setNumber": "62",
+    "rarity": "1d",
+    "cardName": "Eevee"
+  },
+  {
+    "setNumber": "63",
+    "rarity": "2d",
+    "cardName": "Snorlax"
+  },
+  {
+    "setNumber": "64",
+    "rarity": "1d",
+    "cardName": "Hoothoot"
+  },
+  {
+    "setNumber": "65",
+    "rarity": "2d",
+    "cardName": "Noctowl"
+  },
+  {
+    "setNumber": "66",
+    "rarity": "1d",
+    "cardName": "Starly"
+  },
+  {
+    "setNumber": "67",
+    "rarity": "1d",
+    "cardName": "Staravia"
+  },
+  {
+    "setNumber": "68",
+    "rarity": "2d",
+    "cardName": "Staraptor"
+  },
+  {
+    "setNumber": "69",
+    "rarity": "3d",
+    "cardName": "Shaymin"
+  },
+  {
+    "setNumber": "70",
+    "rarity": "3d",
+    "cardName": "Arceus"
+  },
+  {
+    "setNumber": "71",
+    "rarity": "4d",
+    "cardName": "Arceus ex"
+  },
+  {
+    "setNumber": "76",
+    "rarity": "1s",
+    "cardName": "Houndoom"
+  },
+  {
+    "setNumber": "77",
+    "rarity": "1s",
+    "cardName": "Marill"
+  },
+  {
+    "setNumber": "78",
+    "rarity": "1s",
+    "cardName": "Unown"
+  },
+  {
+    "setNumber": "79",
+    "rarity": "1s",
+    "cardName": "Sudowoodo"
+  },
+  {
+    "setNumber": "80",
+    "rarity": "1s",
+    "cardName": "Magnemite"
+  },
+  {
+    "setNumber": "81",
+    "rarity": "1s",
+    "cardName": "Shaymin"
+  },
+  {
+    "setNumber": "82",
+    "rarity": "2s",
+    "cardName": "Leafeon ex"
+  },
+  {
+    "setNumber": "83",
+    "rarity": "2s",
+    "cardName": "Glaceon ex"
+  },
+  {
+    "setNumber": "84",
+    "rarity": "2s",
+    "cardName": "Garchomp ex"
+  },
+  {
+    "setNumber": "85",
+    "rarity": "2s",
+    "cardName": "Probopass ex"
+  },
+  {
+    "setNumber": "86",
+    "rarity": "2s",
+    "cardName": "Arceus ex"
+  },
+  {
+    "setNumber": "91",
+    "rarity": "2s",
+    "cardName": "Leafeon ex"
+  },
+  {
+    "setNumber": "92",
+    "rarity": "2s",
+    "cardName": "Glaceon ex"
+  },
+  {
+    "setNumber": "93",
+    "rarity": "2s",
+    "cardName": "Garchomp ex"
+  },
+  {
+    "setNumber": "94",
+    "rarity": "2s",
+    "cardName": "Probopass ex"
+  },
+  {
+    "setNumber": "95",
+    "rarity": "3s",
+    "cardName": "Arceus ex"
+  },
+  {
+    "setNumber": "96",
+    "rarity": "1c",
+    "cardName": "Arceus ex"
+  }
+]

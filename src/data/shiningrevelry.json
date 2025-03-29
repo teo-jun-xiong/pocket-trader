@@ -1,0 +1,498 @@
+[
+  {
+    "setNumber": "1",
+    "rarity": "1d",
+    "cardName": "Weedle"
+  },
+  {
+    "setNumber": "2",
+    "rarity": "2d",
+    "cardName": "Kakuna"
+  },
+  {
+    "setNumber": "3",
+    "rarity": "4d",
+    "cardName": "Beedrill ex"
+  },
+  {
+    "setNumber": "4",
+    "rarity": "1d",
+    "cardName": "Pinsir"
+  },
+  {
+    "setNumber": "5",
+    "rarity": "1d",
+    "cardName": "Sprigatito"
+  },
+  {
+    "setNumber": "6",
+    "rarity": "2d",
+    "cardName": "Floragato"
+  },
+  {
+    "setNumber": "7",
+    "rarity": "3d",
+    "cardName": "Meowscarada"
+  },
+  {
+    "setNumber": "8",
+    "rarity": "1d",
+    "cardName": "Charmander"
+  },
+  {
+    "setNumber": "9",
+    "rarity": "2d",
+    "cardName": "Charmeleon"
+  },
+  {
+    "setNumber": "10",
+    "rarity": "4d",
+    "cardName": "Charizard ex"
+  },
+  {
+    "setNumber": "11",
+    "rarity": "1d",
+    "cardName": "Magmar"
+  },
+  {
+    "setNumber": "12",
+    "rarity": "3d",
+    "cardName": "Magmortar"
+  },
+  {
+    "setNumber": "13",
+    "rarity": "2d",
+    "cardName": "Paldean Tauros"
+  },
+  {
+    "setNumber": "14",
+    "rarity": "1d",
+    "cardName": "Tentacool"
+  },
+  {
+    "setNumber": "15",
+    "rarity": "2d",
+    "cardName": "Tentacruel"
+  },
+  {
+    "setNumber": "16",
+    "rarity": "1d",
+    "cardName": "Buizel"
+  },
+  {
+    "setNumber": "17",
+    "rarity": "2d",
+    "cardName": "Floatzel"
+  },
+  {
+    "setNumber": "18",
+    "rarity": "1d",
+    "cardName": "Wiglett"
+  },
+  {
+    "setNumber": "19",
+    "rarity": "4d",
+    "cardName": "Wugtrio ex"
+  },
+  {
+    "setNumber": "20",
+    "rarity": "3d",
+    "cardName": "Dondozo"
+  },
+  {
+    "setNumber": "21",
+    "rarity": "2d",
+    "cardName": "Tatsugiri"
+  },
+  {
+    "setNumber": "22",
+    "rarity": "4d",
+    "cardName": "Pikachu ex"
+  },
+  {
+    "setNumber": "23",
+    "rarity": "1d",
+    "cardName": "Voltorb"
+  },
+  {
+    "setNumber": "24",
+    "rarity": "2d",
+    "cardName": "Electrode"
+  },
+  {
+    "setNumber": "25",
+    "rarity": "2d",
+    "cardName": "Pachirisu"
+  },
+  {
+    "setNumber": "26",
+    "rarity": "1d",
+    "cardName": "Pawmi"
+  },
+  {
+    "setNumber": "27",
+    "rarity": "2d",
+    "cardName": "Pawmo"
+  },
+  {
+    "setNumber": "28",
+    "rarity": "3d",
+    "cardName": "Pawmot"
+  },
+  {
+    "setNumber": "29",
+    "rarity": "1d",
+    "cardName": "Abra"
+  },
+  {
+    "setNumber": "30",
+    "rarity": "2d",
+    "cardName": "Kadabra"
+  },
+  {
+    "setNumber": "31",
+    "rarity": "3d",
+    "cardName": "Alakazam"
+  },
+  {
+    "setNumber": "32",
+    "rarity": "1d",
+    "cardName": "Mr. Mime"
+  },
+  {
+    "setNumber": "33",
+    "rarity": "1d",
+    "cardName": "Drifloon"
+  },
+  {
+    "setNumber": "34",
+    "rarity": "2d",
+    "cardName": "Drifblim"
+  },
+  {
+    "setNumber": "35",
+    "rarity": "4d",
+    "cardName": "Giratina ex"
+  },
+  {
+    "setNumber": "36",
+    "rarity": "1d",
+    "cardName": "Gimmighoul"
+  },
+  {
+    "setNumber": "37",
+    "rarity": "1d",
+    "cardName": "Machop"
+  },
+  {
+    "setNumber": "38",
+    "rarity": "1d",
+    "cardName": "Machoke"
+  },
+  {
+    "setNumber": "39",
+    "rarity": "3d",
+    "cardName": "Machamp"
+  },
+  {
+    "setNumber": "40",
+    "rarity": "1d",
+    "cardName": "Hitmonlee"
+  },
+  {
+    "setNumber": "41",
+    "rarity": "1d",
+    "cardName": "Hitmonchan"
+  },
+  {
+    "setNumber": "42",
+    "rarity": "1d",
+    "cardName": "Riolu"
+  },
+  {
+    "setNumber": "43",
+    "rarity": "4d",
+    "cardName": "Lucario ex"
+  },
+  {
+    "setNumber": "44",
+    "rarity": "2d",
+    "cardName": "Flamigo"
+  },
+  {
+    "setNumber": "45",
+    "rarity": "1d",
+    "cardName": "Ekans"
+  },
+  {
+    "setNumber": "46",
+    "rarity": "2d",
+    "cardName": "Arbok"
+  },
+  {
+    "setNumber": "47",
+    "rarity": "1d",
+    "cardName": "Paldean Wooper"
+  },
+  {
+    "setNumber": "48",
+    "rarity": "4d",
+    "cardName": "Paldean Clodsire ex"
+  },
+  {
+    "setNumber": "49",
+    "rarity": "2d",
+    "cardName": "Spiritomb"
+  },
+  {
+    "setNumber": "50",
+    "rarity": "1d",
+    "cardName": "Shroodle"
+  },
+  {
+    "setNumber": "51",
+    "rarity": "3d",
+    "cardName": "Grafaiai"
+  },
+  {
+    "setNumber": "52",
+    "rarity": "1d",
+    "cardName": "Tinkatink"
+  },
+  {
+    "setNumber": "53",
+    "rarity": "2d",
+    "cardName": "Tinkatuff"
+  },
+  {
+    "setNumber": "54",
+    "rarity": "4d",
+    "cardName": "Tinkaton ex"
+  },
+  {
+    "setNumber": "55",
+    "rarity": "1d",
+    "cardName": "Varoom"
+  },
+  {
+    "setNumber": "56",
+    "rarity": "2d",
+    "cardName": "Revavroom"
+  },
+  {
+    "setNumber": "57",
+    "rarity": "3d",
+    "cardName": "Gholdengo"
+  },
+  {
+    "setNumber": "58",
+    "rarity": "1d",
+    "cardName": "Rattata"
+  },
+  {
+    "setNumber": "59",
+    "rarity": "1d",
+    "cardName": "Raticate"
+  },
+  {
+    "setNumber": "60",
+    "rarity": "1d",
+    "cardName": "Jigglypuff"
+  },
+  {
+    "setNumber": "61",
+    "rarity": "3d",
+    "cardName": "Wigglytuff"
+  },
+  {
+    "setNumber": "62",
+    "rarity": "1d",
+    "cardName": "Lickitung"
+  },
+  {
+    "setNumber": "63",
+    "rarity": "1d",
+    "cardName": "Lickilicky"
+  },
+  {
+    "setNumber": "64",
+    "rarity": "1d",
+    "cardName": "Bidoof"
+  },
+  {
+    "setNumber": "65",
+    "rarity": "4d",
+    "cardName": "Bibarel ex"
+  },
+  {
+    "setNumber": "66",
+    "rarity": "1d",
+    "cardName": "Buneary"
+  },
+  {
+    "setNumber": "67",
+    "rarity": "1d",
+    "cardName": "Lopunny"
+  },
+  {
+    "setNumber": "68",
+    "rarity": "2d",
+    "cardName": "Cyclizar"
+  },
+  {
+    "setNumber": "73",
+    "rarity": "1s",
+    "cardName": "Meowscarada"
+  },
+  {
+    "setNumber": "74",
+    "rarity": "1s",
+    "cardName": "Buizel"
+  },
+  {
+    "setNumber": "75",
+    "rarity": "1s",
+    "cardName": "Tatsugiri"
+  },
+  {
+    "setNumber": "76",
+    "rarity": "1s",
+    "cardName": "Grafaiai"
+  },
+  {
+    "setNumber": "77",
+    "rarity": "1s",
+    "cardName": "Gholdengo"
+  },
+  {
+    "setNumber": "78",
+    "rarity": "2s",
+    "cardName": "Wigglytuff"
+  },
+  {
+    "setNumber": "79",
+    "rarity": "2s",
+    "cardName": "Beedrill ex"
+  },
+  {
+    "setNumber": "80",
+    "rarity": "2s",
+    "cardName": "Charizard ex"
+  },
+  {
+    "setNumber": "81",
+    "rarity": "2s",
+    "cardName": "Wugtrio ex"
+  },
+  {
+    "setNumber": "82",
+    "rarity": "2s",
+    "cardName": "Pikachu ex"
+  },
+  {
+    "setNumber": "83",
+    "rarity": "2s",
+    "cardName": "Giratina ex"
+  },
+  {
+    "setNumber": "84",
+    "rarity": "2s",
+    "cardName": "Lucario ex"
+  },
+  {
+    "setNumber": "85",
+    "rarity": "2s",
+    "cardName": "Paldean Clodsire ex"
+  },
+  {
+    "setNumber": "86",
+    "rarity": "2s",
+    "cardName": "Tinkaton ex"
+  },
+  {
+    "setNumber": "87",
+    "rarity": "2s",
+    "cardName": "Bibarel ex"
+  },
+  {
+    "setNumber": "92",
+    "rarity": "2s",
+    "cardName": "Pikachu ex"
+  },
+  {
+    "setNumber": "93",
+    "rarity": "2s",
+    "cardName": "Paldean Clodsire ex"
+  },
+  {
+    "setNumber": "94",
+    "rarity": "2s",
+    "cardName": "Tinkaton ex"
+  },
+  {
+    "setNumber": "95",
+    "rarity": "2s",
+    "cardName": "Bibarel ex"
+  },
+  {
+    "setNumber": "96",
+    "rarity": "3s",
+    "cardName": "Giratina ex"
+  },
+  {
+    "setNumber": "97",
+    "cardName": "Weedle"
+  },
+  {
+    "setNumber": "98",
+    "cardName": "Kakuna"
+  },
+  {
+    "setNumber": "99",
+    "cardName": "Charmander"
+  },
+  {
+    "setNumber": "100",
+    "cardName": "Charmeleon"
+  },
+  {
+    "setNumber": "101",
+    "cardName": "Wiglett"
+  },
+  {
+    "setNumber": "102",
+    "cardName": "Dondozo"
+  },
+  {
+    "setNumber": "103",
+    "cardName": "Pachirisu"
+  },
+  {
+    "setNumber": "104",
+    "cardName": "Riolu"
+  },
+  {
+    "setNumber": "105",
+    "cardName": "Varoom"
+  },
+  {
+    "setNumber": "106",
+    "cardName": "Revavroom"
+  },
+  {
+    "setNumber": "107",
+    "cardName": "Beedrill ex"
+  },
+  {
+    "setNumber": "108",
+    "cardName": "Charizard ex"
+  },
+  {
+    "setNumber": "109",
+    "cardName": "Wugtrio ex"
+  },
+  {
+    "setNumber": "110",
+    "cardName": "Lucario ex"
+  }
+]

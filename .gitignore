@@ -12,6 +12,8 @@
 
 # testing
 /coverage
+.vscode/launch.json
+/test-results
 
 # next.js
 /.next/

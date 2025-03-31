@@ -2,7 +2,11 @@ import CardSet from './card-set.js';
 
 class Collection {
   #cards = initialize();
-  constructor() {}
+  #username = undefined;
+
+  constructor(username) {
+    this.#username = username;
+  }
 
   getCards() {
     return this.#cards;
@@ -22,6 +26,10 @@ class Collection {
 
   addCard(setName, card) {
     this.#cards[setName][card['setNumber']] = card;
+  }
+
+  getUsername() {
+    return this.#username;
   }
 }
 

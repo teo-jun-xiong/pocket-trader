@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Seeding Data
+
+1. `node src/data/scripts/serebii-scrapping.js` to get all the names and rarities of Pokemon.
+2. `node src/data/scripts/add-keys-to-json.js` to append the set number to each object for each set.
+3. `node src/data/scripts/initialize-empty-collection.js` to create or update the Javascript object representing all the cards in every set.

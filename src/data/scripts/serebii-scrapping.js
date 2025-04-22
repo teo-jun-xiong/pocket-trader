@@ -2,6 +2,7 @@ import { chromium } from 'playwright';
 import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
+import CardSet from '../../services/dto/card-set.js';
 
 async function extractSetData(setName) {
   const browser = await chromium.launch({ headless: true });
@@ -31,6 +32,8 @@ async function extractSetData(setName) {
         star2: '2s',
         star3: '3s',
         crown: '1c',
+        shiny1: '1sh',
+        shiny2: '2sh',
       };
 
       const match = cell
@@ -123,14 +126,7 @@ async function extractSetData(setName) {
   console.log(`Rows data written to ${outputFilePath}`);
 }
 
-const sets = [
-  'Genetic Apex',
-  'Mythical Island',
-  'Space-time Smackdown',
-  'Triumphant Light',
-  'Shining Revelry',
-];
-
-for (const set of sets) {
-  await extractSetData(set);
+// Iterate through CardSet
+for (const setName of Object.values(CardSet)) {
+  await extractSetData(setName);
 }

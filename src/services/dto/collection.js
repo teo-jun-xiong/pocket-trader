@@ -1,4 +1,4 @@
-import CardSet from './card-set.js';
+import { emptyCollection } from '../../data/empty-collection.js';
 
 class Collection {
   #cards = initialize();
@@ -16,16 +16,19 @@ class Collection {
     return this.#cards[setName];
   }
 
-  setCards(cards) {
-    this.#cards = cards;
+  addCard(setName, setNumber) {
+    if (this.#cards[setName][setNumber]) {
+      this.#cards[setName][setNumber].count++;
+    }
   }
 
-  setCardsForSet(setName, cards) {
-    this.#cards[setName] = cards;
-  }
-
-  addCard(setName, card) {
-    this.#cards[setName][card['setNumber']] = card;
+  removeCard(setName, setNumber) {
+    if (this.#cards[setName][setNumber]) {
+      this.#cards[setName][setNumber].count = Math.max(
+        0,
+        this.#cards[setName][setNumber].count - 1
+      );
+    }
   }
 
   getUsername() {
@@ -34,14 +37,7 @@ class Collection {
 }
 
 function initialize() {
-  const map = {};
-
-  // Iterate over each item in CardSet and create an empty list for each
-  Object.values(CardSet).forEach((setName) => {
-    map[setName] = {};
-  });
-
-  return map;
+  return emptyCollection;
 }
 
 export default Collection;

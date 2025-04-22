@@ -24,7 +24,12 @@ function extractTradableCards(userCollection, collection, minimumCount) {
     const userCards = userCollection.getCardsForSet(setName);
     const cards = collection.getCardsForSet(setName);
     const tradable = getDifference(userCards, cards, minimumCount);
-    tradableCollection.setCardsForSet(setName, tradable);
+
+    for (const [setNumber, card] of Object.entries(tradable)) {
+      if (card['count'] > minimumCount) {
+        tradableCollection.addCard(setName, setNumber);
+      }
+    }
   });
 
   return tradableCollection;

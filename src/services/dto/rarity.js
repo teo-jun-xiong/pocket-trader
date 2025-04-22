@@ -7,6 +7,8 @@ const Rarity = Object.freeze({
   STAR_2: '2s',
   STAR_3: '3s',
   CROWN: '1c',
+  SHINY_1: '1sh',
+  SHINY_2: '2sh',
 });
 
 export function mapRarity(rarityKey) {
@@ -19,6 +21,8 @@ export function mapRarity(rarityKey) {
     star2: Rarity.STAR_2,
     star3: Rarity.STAR_3,
     crown: Rarity.CROWN,
+    shiny1: Rarity.SHINY_1,
+    shiny2: Rarity.SHINY_2,
   };
 
   return rarityMap[rarityKey] || Rarity.DIAMOND_1; // Default to '1d' if not found

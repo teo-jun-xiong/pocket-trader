@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Define the directory containing JSON files
-const jsonDir = path.resolve('../json');
+const jsonDir = path.resolve('src/data/json');
 
 // Read all files in the directory
 fs.readdir(jsonDir, (err, files) => {

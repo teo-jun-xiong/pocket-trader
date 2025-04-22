@@ -13,27 +13,29 @@ function initializeEmptyCollection() {
   // Iterate over each item in CardSet and create an empty list for each
   Object.values(CardSet).forEach((setName) => {
     const filePath = getPathForCardSet(setName);
-    map[setName] = Object.values(
-      JSON.parse(fs.readFileSync(filePath, 'utf8'))
-    ).map((card) => {
-      return {
+    const jsonData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+    const data = Object.entries(jsonData).reduce((acc, [key, card]) => {
+      acc[key] = {
         ...card,
-        count: 0,
+        count: 0, // Add the count property
       };
-    });
+      return acc;
+    }, {});
+
+    map[setName] = data;
   });
 
   // Write the resulting map to a JavaScript file
-  const outputFilePath = path.resolve(
-    __dirname,
-    '../data/processed-collection.js'
-  );
-  const fileContent = `export const processedCollection = ${JSON.stringify(map, null, 2)};`;
+  const outputFilePath = path.resolve(__dirname, '../empty-collection.js');
+  const fileContent = `export const emptyCollection = ${JSON.stringify(map, null, 2)};`;
   fs.writeFileSync(outputFilePath, fileContent, 'utf8');
-  console.log(`Processed collection saved to ${outputFilePath}`);
+  console.log(`Empty collection saved to ${outputFilePath}`);
 }
 
 function getPathForCardSet(cardSet) {
   const formattedSetName = cardSet.replace(/\s+/g, '').toLowerCase();
-  return path.resolve(__dirname, `../data/json/${formattedSetName}.json`);
+  return path.resolve(__dirname, `../json/${formattedSetName}.json`);
 }
+
+initializeEmptyCollection();

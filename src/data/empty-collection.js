@@ -1,4350 +1,4350 @@
 export const emptyCollection = {
-  'Genetic Apex': [
-    {
+  'Genetic Apex': {
+    1: {
       setNumber: '1',
       rarity: '1d',
       cardName: 'Bulbasaur',
       count: 0,
     },
-    {
+    2: {
       setNumber: '2',
       rarity: '2d',
       cardName: 'Ivysaur',
       count: 0,
     },
-    {
+    3: {
       setNumber: '3',
       rarity: '3d',
       cardName: 'Venusaur',
       count: 0,
     },
-    {
+    4: {
       setNumber: '4',
       rarity: '4d',
       cardName: 'Venusaur ex',
       count: 0,
     },
-    {
+    5: {
       setNumber: '5',
       rarity: '1d',
       cardName: 'Caterpie',
       count: 0,
     },
-    {
+    6: {
       setNumber: '6',
       rarity: '1d',
       cardName: 'Metapod',
       count: 0,
     },
-    {
+    7: {
       setNumber: '7',
       rarity: '3d',
       cardName: 'Butterfree',
       count: 0,
     },
-    {
+    8: {
       setNumber: '8',
       rarity: '1d',
       cardName: 'Weedle',
       count: 0,
     },
-    {
+    9: {
       setNumber: '9',
       rarity: '1d',
       cardName: 'Kakuna',
       count: 0,
     },
-    {
+    10: {
       setNumber: '10',
       rarity: '3d',
       cardName: 'Beedrill',
       count: 0,
     },
-    {
+    11: {
       setNumber: '11',
       rarity: '1d',
       cardName: 'Oddish',
       count: 0,
     },
-    {
+    12: {
       setNumber: '12',
       rarity: '2d',
       cardName: 'Gloom',
       count: 0,
     },
-    {
+    13: {
       setNumber: '13',
       rarity: '3d',
       cardName: 'Vileplume',
       count: 0,
     },
-    {
+    14: {
       setNumber: '14',
       rarity: '1d',
       cardName: 'Paras',
       count: 0,
     },
-    {
+    15: {
       setNumber: '15',
       rarity: '2d',
       cardName: 'Parasect',
       count: 0,
     },
-    {
+    16: {
       setNumber: '16',
       rarity: '1d',
       cardName: 'Venonat',
       count: 0,
     },
-    {
+    17: {
       setNumber: '17',
       rarity: '2d',
       cardName: 'Venomoth',
       count: 0,
     },
-    {
+    18: {
       setNumber: '18',
       rarity: '1d',
       cardName: 'Bellsprout',
       count: 0,
     },
-    {
+    19: {
       setNumber: '19',
       rarity: '2d',
       cardName: 'Weepinbell',
       count: 0,
     },
-    {
+    20: {
       setNumber: '20',
       rarity: '3d',
       cardName: 'Victreebel',
       count: 0,
     },
-    {
+    21: {
       setNumber: '21',
       rarity: '1d',
       cardName: 'Exeggcute',
       count: 0,
     },
-    {
+    22: {
       setNumber: '22',
       rarity: '3d',
       cardName: 'Exeggutor',
       count: 0,
     },
-    {
+    23: {
       setNumber: '23',
       rarity: '4d',
       cardName: 'Exeggutor ex',
       count: 0,
     },
-    {
+    24: {
       setNumber: '24',
       rarity: '1d',
       cardName: 'Tangela',
       count: 0,
     },
-    {
+    25: {
       setNumber: '25',
       rarity: '1d',
       cardName: 'Scyther',
       count: 0,
     },
-    {
+    26: {
       setNumber: '26',
       rarity: '2d',
       cardName: 'Pinsir',
       count: 0,
     },
-    {
+    27: {
       setNumber: '27',
       rarity: '1d',
       cardName: 'Cottonee',
       count: 0,
     },
-    {
+    28: {
       setNumber: '28',
       rarity: '2d',
       cardName: 'Whimsicott',
       count: 0,
     },
-    {
+    29: {
       setNumber: '29',
       rarity: '1d',
       cardName: 'Petilil',
       count: 0,
     },
-    {
+    30: {
       setNumber: '30',
       rarity: '2d',
       cardName: 'Lilligant',
       count: 0,
     },
-    {
+    31: {
       setNumber: '31',
       rarity: '1d',
       cardName: 'Skiddo',
       count: 0,
     },
-    {
+    32: {
       setNumber: '32',
       rarity: '1d',
       cardName: 'Gogoat',
       count: 0,
     },
-    {
+    33: {
       setNumber: '33',
       rarity: '1d',
       cardName: 'Charmander',
       count: 0,
     },
-    {
+    34: {
       setNumber: '34',
       rarity: '2d',
       cardName: 'Charmeleon',
       count: 0,
     },
-    {
+    35: {
       setNumber: '35',
       rarity: '3d',
       cardName: 'Charizard',
       count: 0,
     },
-    {
+    36: {
       setNumber: '36',
       rarity: '4d',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    37: {
       setNumber: '37',
       rarity: '1d',
       cardName: 'Vulpix',
       count: 0,
     },
-    {
+    38: {
       setNumber: '38',
       rarity: '2d',
       cardName: 'Ninetales',
       count: 0,
     },
-    {
+    39: {
       setNumber: '39',
       rarity: '1d',
       cardName: 'Growlithe',
       count: 0,
     },
-    {
+    40: {
       setNumber: '40',
       rarity: '3d',
       cardName: 'Arcanine',
       count: 0,
     },
-    {
+    41: {
       setNumber: '41',
       rarity: '4d',
       cardName: 'Arcanine ex',
       count: 0,
     },
-    {
+    42: {
       setNumber: '42',
       rarity: '1d',
       cardName: 'Ponyta',
       count: 0,
     },
-    {
+    43: {
       setNumber: '43',
       rarity: '2d',
       cardName: 'Rapidash',
       count: 0,
     },
-    {
+    44: {
       setNumber: '44',
       rarity: '1d',
       cardName: 'Magmar',
       count: 0,
     },
-    {
+    45: {
       setNumber: '45',
       rarity: '3d',
       cardName: 'Flareon',
       count: 0,
     },
-    {
+    46: {
       setNumber: '46',
       rarity: '3d',
       cardName: 'Moltres',
       count: 0,
     },
-    {
+    47: {
       setNumber: '47',
       rarity: '4d',
       cardName: 'Moltres ex',
       count: 0,
     },
-    {
+    48: {
       setNumber: '48',
       rarity: '1d',
       cardName: 'Heatmor',
       count: 0,
     },
-    {
+    49: {
       setNumber: '49',
       rarity: '1d',
       cardName: 'Salandit',
       count: 0,
     },
-    {
+    50: {
       setNumber: '50',
       rarity: '1d',
       cardName: 'Salazzle',
       count: 0,
     },
-    {
+    51: {
       setNumber: '51',
       rarity: '1d',
       cardName: 'Sizzlipede',
       count: 0,
     },
-    {
+    52: {
       setNumber: '52',
       rarity: '2d',
       cardName: 'Centiskorch',
       count: 0,
     },
-    {
+    53: {
       setNumber: '53',
       rarity: '1d',
       cardName: 'Squirtle',
       count: 0,
     },
-    {
+    54: {
       setNumber: '54',
       rarity: '2d',
       cardName: 'Wartortle',
       count: 0,
     },
-    {
+    55: {
       setNumber: '55',
       rarity: '3d',
       cardName: 'Blastoise',
       count: 0,
     },
-    {
+    56: {
       setNumber: '56',
       rarity: '4d',
       cardName: 'Blastoise ex',
       count: 0,
     },
-    {
+    57: {
       setNumber: '57',
       rarity: '1d',
       cardName: 'Psyduck',
       count: 0,
     },
-    {
+    58: {
       setNumber: '58',
       rarity: '2d',
       cardName: 'Golduck',
       count: 0,
     },
-    {
+    59: {
       setNumber: '59',
       rarity: '1d',
       cardName: 'Poliwag',
       count: 0,
     },
-    {
+    60: {
       setNumber: '60',
       rarity: '2d',
       cardName: 'Poliwhirl',
       count: 0,
     },
-    {
+    61: {
       setNumber: '61',
       rarity: '3d',
       cardName: 'Poliwrath',
       count: 0,
     },
-    {
+    62: {
       setNumber: '62',
       rarity: '1d',
       cardName: 'Tentacool',
       count: 0,
     },
-    {
+    63: {
       setNumber: '63',
       rarity: '2d',
       cardName: 'Tentacruel',
       count: 0,
     },
-    {
+    64: {
       setNumber: '64',
       rarity: '1d',
       cardName: 'Seel',
       count: 0,
     },
-    {
+    65: {
       setNumber: '65',
       rarity: '2d',
       cardName: 'Dewgong',
       count: 0,
     },
-    {
+    66: {
       setNumber: '66',
       rarity: '1d',
       cardName: 'Shellder',
       count: 0,
     },
-    {
+    67: {
       setNumber: '67',
       rarity: '2d',
       cardName: 'Cloyster',
       count: 0,
     },
-    {
+    68: {
       setNumber: '68',
       rarity: '1d',
       cardName: 'Krabby',
       count: 0,
     },
-    {
+    69: {
       setNumber: '69',
       rarity: '2d',
       cardName: 'Kingler',
       count: 0,
     },
-    {
+    70: {
       setNumber: '70',
       rarity: '1d',
       cardName: 'Horsea',
       count: 0,
     },
-    {
+    71: {
       setNumber: '71',
       rarity: '2d',
       cardName: 'Seadra',
       count: 0,
     },
-    {
+    72: {
       setNumber: '72',
       rarity: '1d',
       cardName: 'Goldeen',
       count: 0,
     },
-    {
+    73: {
       setNumber: '73',
       rarity: '1d',
       cardName: 'Seaking',
       count: 0,
     },
-    {
+    74: {
       setNumber: '74',
       rarity: '1d',
       cardName: 'Staryu',
       count: 0,
     },
-    {
+    75: {
       setNumber: '75',
       rarity: '2d',
       cardName: 'Starmie',
       count: 0,
     },
-    {
+    76: {
       setNumber: '76',
       rarity: '4d',
       cardName: 'Starmie ex',
       count: 0,
     },
-    {
+    77: {
       setNumber: '77',
       rarity: '1d',
       cardName: 'Magikarp',
       count: 0,
     },
-    {
+    78: {
       setNumber: '78',
       rarity: '3d',
       cardName: 'Gyarados',
       count: 0,
     },
-    {
+    79: {
       setNumber: '79',
       rarity: '3d',
       cardName: 'Lapras',
       count: 0,
     },
-    {
+    80: {
       setNumber: '80',
       rarity: '3d',
       cardName: 'Vaporeon',
       count: 0,
     },
-    {
+    81: {
       setNumber: '81',
       rarity: '2d',
       cardName: 'Omanyte',
       count: 0,
     },
-    {
+    82: {
       setNumber: '82',
       rarity: '3d',
       cardName: 'Omastar',
       count: 0,
     },
-    {
+    83: {
       setNumber: '83',
       rarity: '3d',
       cardName: 'Articuno',
       count: 0,
     },
-    {
+    84: {
       setNumber: '84',
       rarity: '4d',
       cardName: 'Articuno ex',
       count: 0,
     },
-    {
+    85: {
       setNumber: '85',
       rarity: '1d',
       cardName: 'Ducklett',
       count: 0,
     },
-    {
+    86: {
       setNumber: '86',
       rarity: '2d',
       cardName: 'Swanna',
       count: 0,
     },
-    {
+    87: {
       setNumber: '87',
       rarity: '1d',
       cardName: 'Froakie',
       count: 0,
     },
-    {
+    88: {
       setNumber: '88',
       rarity: '2d',
       cardName: 'Frogadier',
       count: 0,
     },
-    {
+    89: {
       setNumber: '89',
       rarity: '3d',
       cardName: 'Greninja',
       count: 0,
     },
-    {
+    90: {
       setNumber: '90',
       rarity: '1d',
       cardName: 'Pyukumuku',
       count: 0,
     },
-    {
+    91: {
       setNumber: '91',
       rarity: '2d',
       cardName: 'Bruxish',
       count: 0,
     },
-    {
+    92: {
       setNumber: '92',
       rarity: '1d',
       cardName: 'Snom',
       count: 0,
     },
-    {
+    93: {
       setNumber: '93',
       rarity: '2d',
       cardName: 'Frosmoth',
       count: 0,
     },
-    {
+    94: {
       setNumber: '94',
       rarity: '1d',
       cardName: 'Pikachu',
       count: 0,
     },
-    {
+    95: {
       setNumber: '95',
       rarity: '3d',
       cardName: 'Raichu',
       count: 0,
     },
-    {
+    96: {
       setNumber: '96',
       rarity: '4d',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    97: {
       setNumber: '97',
       rarity: '1d',
       cardName: 'Magnemite',
       count: 0,
     },
-    {
+    98: {
       setNumber: '98',
       rarity: '3d',
       cardName: 'Magneton',
       count: 0,
     },
-    {
+    99: {
       setNumber: '99',
       rarity: '1d',
       cardName: 'Voltorb',
       count: 0,
     },
-    {
+    100: {
       setNumber: '100',
       rarity: '2d',
       cardName: 'Electrode',
       count: 0,
     },
-    {
+    101: {
       setNumber: '101',
       rarity: '1d',
       cardName: 'Electabuzz',
       count: 0,
     },
-    {
+    102: {
       setNumber: '102',
       rarity: '3d',
       cardName: 'Jolteon',
       count: 0,
     },
-    {
+    103: {
       setNumber: '103',
       rarity: '3d',
       cardName: 'Zapdos',
       count: 0,
     },
-    {
+    104: {
       setNumber: '104',
       rarity: '4d',
       cardName: 'Zapdos ex',
       count: 0,
     },
-    {
+    105: {
       setNumber: '105',
       rarity: '1d',
       cardName: 'Blitzle',
       count: 0,
     },
-    {
+    106: {
       setNumber: '106',
       rarity: '2d',
       cardName: 'Zebstrika',
       count: 0,
     },
-    {
+    107: {
       setNumber: '107',
       rarity: '1d',
       cardName: 'Tynamo',
       count: 0,
     },
-    {
+    108: {
       setNumber: '108',
       rarity: '2d',
       cardName: 'Eelektrik',
       count: 0,
     },
-    {
+    109: {
       setNumber: '109',
       rarity: '3d',
       cardName: 'Eelektross',
       count: 0,
     },
-    {
+    110: {
       setNumber: '110',
       rarity: '1d',
       cardName: 'Helioptile',
       count: 0,
     },
-    {
+    111: {
       setNumber: '111',
       rarity: '1d',
       cardName: 'Heliolisk',
       count: 0,
     },
-    {
+    112: {
       setNumber: '112',
       rarity: '2d',
       cardName: 'Pincurchin',
       count: 0,
     },
-    {
+    113: {
       setNumber: '113',
       rarity: '1d',
       cardName: 'Clefairy',
       count: 0,
     },
-    {
+    114: {
       setNumber: '114',
       rarity: '2d',
       cardName: 'Clefable',
       count: 0,
     },
-    {
+    115: {
       setNumber: '115',
       rarity: '1d',
       cardName: 'Abra',
       count: 0,
     },
-    {
+    116: {
       setNumber: '116',
       rarity: '2d',
       cardName: 'Kadabra',
       count: 0,
     },
-    {
+    117: {
       setNumber: '117',
       rarity: '3d',
       cardName: 'Alakazam',
       count: 0,
     },
-    {
+    118: {
       setNumber: '118',
       rarity: '1d',
       cardName: 'Slowpoke',
       count: 0,
     },
-    {
+    119: {
       setNumber: '119',
       rarity: '2d',
       cardName: 'Slowbro',
       count: 0,
     },
-    {
+    120: {
       setNumber: '120',
       rarity: '1d',
       cardName: 'Gastly',
       count: 0,
     },
-    {
+    121: {
       setNumber: '121',
       rarity: '2d',
       cardName: 'Haunter',
       count: 0,
     },
-    {
+    122: {
       setNumber: '122',
       rarity: '3d',
       cardName: 'Gengar',
       count: 0,
     },
-    {
+    123: {
       setNumber: '123',
       rarity: '4d',
       cardName: 'Gengar ex',
       count: 0,
     },
-    {
+    124: {
       setNumber: '124',
       rarity: '1d',
       cardName: 'Drowzee',
       count: 0,
     },
-    {
+    125: {
       setNumber: '125',
       rarity: '3d',
       cardName: 'Hypno',
       count: 0,
     },
-    {
+    126: {
       setNumber: '126',
       rarity: '2d',
       cardName: 'Mr. Mime',
       count: 0,
     },
-    {
+    127: {
       setNumber: '127',
       rarity: '1d',
       cardName: 'Jynx',
       count: 0,
     },
-    {
+    128: {
       setNumber: '128',
       rarity: '3d',
       cardName: 'Mewtwo',
       count: 0,
     },
-    {
+    129: {
       setNumber: '129',
       rarity: '4d',
       cardName: 'Mewtwo ex',
       count: 0,
     },
-    {
+    130: {
       setNumber: '130',
       rarity: '1d',
       cardName: 'Ralts',
       count: 0,
     },
-    {
+    131: {
       setNumber: '131',
       rarity: '2d',
       cardName: 'Kirlia',
       count: 0,
     },
-    {
+    132: {
       setNumber: '132',
       rarity: '3d',
       cardName: 'Gardevoir',
       count: 0,
     },
-    {
+    133: {
       setNumber: '133',
       rarity: '1d',
       cardName: 'Woobat',
       count: 0,
     },
-    {
+    134: {
       setNumber: '134',
       rarity: '1d',
       cardName: 'Swoobat',
       count: 0,
     },
-    {
+    135: {
       setNumber: '135',
       rarity: '1d',
       cardName: 'Golett',
       count: 0,
     },
-    {
+    136: {
       setNumber: '136',
       rarity: '2d',
       cardName: 'Golurk',
       count: 0,
     },
-    {
+    137: {
       setNumber: '137',
       rarity: '1d',
       cardName: 'Sandshrew',
       count: 0,
     },
-    {
+    138: {
       setNumber: '138',
       rarity: '2d',
       cardName: 'Sandslash',
       count: 0,
     },
-    {
+    139: {
       setNumber: '139',
       rarity: '1d',
       cardName: 'Diglett',
       count: 0,
     },
-    {
+    140: {
       setNumber: '140',
       rarity: '2d',
       cardName: 'Dugtrio',
       count: 0,
     },
-    {
+    141: {
       setNumber: '141',
       rarity: '1d',
       cardName: 'Mankey',
       count: 0,
     },
-    {
+    142: {
       setNumber: '142',
       rarity: '2d',
       cardName: 'Primeape',
       count: 0,
     },
-    {
+    143: {
       setNumber: '143',
       rarity: '1d',
       cardName: 'Machop',
       count: 0,
     },
-    {
+    144: {
       setNumber: '144',
       rarity: '2d',
       cardName: 'Machoke',
       count: 0,
     },
-    {
+    145: {
       setNumber: '145',
       rarity: '3d',
       cardName: 'Machamp',
       count: 0,
     },
-    {
+    146: {
       setNumber: '146',
       rarity: '4d',
       cardName: 'Machamp ex',
       count: 0,
     },
-    {
+    147: {
       setNumber: '147',
       rarity: '1d',
       cardName: 'Geodude',
       count: 0,
     },
-    {
+    148: {
       setNumber: '148',
       rarity: '2d',
       cardName: 'Graveler',
       count: 0,
     },
-    {
+    149: {
       setNumber: '149',
       rarity: '3d',
       cardName: 'Golem',
       count: 0,
     },
-    {
+    150: {
       setNumber: '150',
       rarity: '2d',
       cardName: 'Onix',
       count: 0,
     },
-    {
+    151: {
       setNumber: '151',
       rarity: '1d',
       cardName: 'Cubone',
       count: 0,
     },
-    {
+    152: {
       setNumber: '152',
       rarity: '2d',
       cardName: 'Marowak',
       count: 0,
     },
-    {
+    153: {
       setNumber: '153',
       rarity: '4d',
       cardName: 'Marowak ex',
       count: 0,
     },
-    {
+    154: {
       setNumber: '154',
       rarity: '1d',
       cardName: 'Hitmonlee',
       count: 0,
     },
-    {
+    155: {
       setNumber: '155',
       rarity: '1d',
       cardName: 'Hitmonchan',
       count: 0,
     },
-    {
+    156: {
       setNumber: '156',
       rarity: '1d',
       cardName: 'Rhyhorn',
       count: 0,
     },
-    {
+    157: {
       setNumber: '157',
       rarity: '2d',
       cardName: 'Rhydon',
       count: 0,
     },
-    {
+    158: {
       setNumber: '158',
       rarity: '2d',
       cardName: 'Kabuto',
       count: 0,
     },
-    {
+    159: {
       setNumber: '159',
       rarity: '3d',
       cardName: 'Kabutops',
       count: 0,
     },
-    {
+    160: {
       setNumber: '160',
       rarity: '1d',
       cardName: 'Mienfoo',
       count: 0,
     },
-    {
+    161: {
       setNumber: '161',
       rarity: '2d',
       cardName: 'Mienshao',
       count: 0,
     },
-    {
+    162: {
       setNumber: '162',
       rarity: '1d',
       cardName: 'Clobbopus',
       count: 0,
     },
-    {
+    163: {
       setNumber: '163',
       rarity: '2d',
       cardName: 'Grapploct',
       count: 0,
     },
-    {
+    164: {
       setNumber: '164',
       rarity: '1d',
       cardName: 'Ekans',
       count: 0,
     },
-    {
+    165: {
       setNumber: '165',
       rarity: '2d',
       cardName: 'Arbok',
       count: 0,
     },
-    {
+    166: {
       setNumber: '166',
       rarity: '1d',
       cardName: 'Nidoran♀',
       count: 0,
     },
-    {
+    167: {
       setNumber: '167',
       rarity: '2d',
       cardName: 'Nidorina',
       count: 0,
     },
-    {
+    168: {
       setNumber: '168',
       rarity: '3d',
       cardName: 'Nidoqueen',
       count: 0,
     },
-    {
+    169: {
       setNumber: '169',
       rarity: '1d',
       cardName: 'Nidoran♂',
       count: 0,
     },
-    {
+    170: {
       setNumber: '170',
       rarity: '2d',
       cardName: 'Nidorino',
       count: 0,
     },
-    {
+    171: {
       setNumber: '171',
       rarity: '3d',
       cardName: 'Nidoking',
       count: 0,
     },
-    {
+    172: {
       setNumber: '172',
       rarity: '1d',
       cardName: 'Zubat',
       count: 0,
     },
-    {
+    173: {
       setNumber: '173',
       rarity: '2d',
       cardName: 'Golbat',
       count: 0,
     },
-    {
+    174: {
       setNumber: '174',
       rarity: '1d',
       cardName: 'Grimer',
       count: 0,
     },
-    {
+    175: {
       setNumber: '175',
       rarity: '3d',
       cardName: 'Muk',
       count: 0,
     },
-    {
+    176: {
       setNumber: '176',
       rarity: '1d',
       cardName: 'Koffing',
       count: 0,
     },
-    {
+    177: {
       setNumber: '177',
       rarity: '3d',
       cardName: 'Weezing',
       count: 0,
     },
-    {
+    178: {
       setNumber: '178',
       rarity: '1d',
       cardName: 'Mawile',
       count: 0,
     },
-    {
+    179: {
       setNumber: '179',
       rarity: '1d',
       cardName: 'Pawniard',
       count: 0,
     },
-    {
+    180: {
       setNumber: '180',
       rarity: '2d',
       cardName: 'Bisharp',
       count: 0,
     },
-    {
+    181: {
       setNumber: '181',
       rarity: '1d',
       cardName: 'Meltan',
       count: 0,
     },
-    {
+    182: {
       setNumber: '182',
       rarity: '3d',
       cardName: 'Melmetal',
       count: 0,
     },
-    {
+    183: {
       setNumber: '183',
       rarity: '1d',
       cardName: 'Dratini',
       count: 0,
     },
-    {
+    184: {
       setNumber: '184',
       rarity: '2d',
       cardName: 'Dragonair',
       count: 0,
     },
-    {
+    185: {
       setNumber: '185',
       rarity: '3d',
       cardName: 'Dragonite',
       count: 0,
     },
-    {
+    186: {
       setNumber: '186',
       rarity: '1d',
       cardName: 'Pidgey',
       count: 0,
     },
-    {
+    187: {
       setNumber: '187',
       rarity: '1d',
       cardName: 'Pidgeotto',
       count: 0,
     },
-    {
+    188: {
       setNumber: '188',
       rarity: '3d',
       cardName: 'Pidgeot',
       count: 0,
     },
-    {
+    189: {
       setNumber: '189',
       rarity: '1d',
       cardName: 'Rattata',
       count: 0,
     },
-    {
+    190: {
       setNumber: '190',
       rarity: '1d',
       cardName: 'Raticate',
       count: 0,
     },
-    {
+    191: {
       setNumber: '191',
       rarity: '1d',
       cardName: 'Spearow',
       count: 0,
     },
-    {
+    192: {
       setNumber: '192',
       rarity: '1d',
       cardName: 'Fearow',
       count: 0,
     },
-    {
+    193: {
       setNumber: '193',
       rarity: '1d',
       cardName: 'Jigglypuff',
       count: 0,
     },
-    {
+    194: {
       setNumber: '194',
       rarity: '1d',
       cardName: 'Wigglytuff',
       count: 0,
     },
-    {
+    195: {
       setNumber: '195',
       rarity: '4d',
       cardName: 'Wigglytuff ex',
       count: 0,
     },
-    {
+    196: {
       setNumber: '196',
       rarity: '1d',
       cardName: 'Meowth',
       count: 0,
     },
-    {
+    197: {
       setNumber: '197',
       rarity: '2d',
       cardName: 'Persian',
       count: 0,
     },
-    {
+    198: {
       setNumber: '198',
       rarity: '1d',
       cardName: "Farfetch'd",
       count: 0,
     },
-    {
+    199: {
       setNumber: '199',
       rarity: '1d',
       cardName: 'Doduo',
       count: 0,
     },
-    {
+    200: {
       setNumber: '200',
       rarity: '2d',
       cardName: 'Dodrio',
       count: 0,
     },
-    {
+    201: {
       setNumber: '201',
       rarity: '2d',
       cardName: 'Lickitung',
       count: 0,
     },
-    {
+    202: {
       setNumber: '202',
       rarity: '2d',
       cardName: 'Chansey',
       count: 0,
     },
-    {
+    203: {
       setNumber: '203',
       rarity: '3d',
       cardName: 'Kangaskhan',
       count: 0,
     },
-    {
+    204: {
       setNumber: '204',
       rarity: '2d',
       cardName: 'Tauros',
       count: 0,
     },
-    {
+    205: {
       setNumber: '205',
       rarity: '3d',
       cardName: 'Ditto',
       count: 0,
     },
-    {
+    206: {
       setNumber: '206',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    207: {
       setNumber: '207',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    208: {
       setNumber: '208',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    209: {
       setNumber: '209',
       rarity: '2d',
       cardName: 'Porygon',
       count: 0,
     },
-    {
+    210: {
       setNumber: '210',
       rarity: '3d',
       cardName: 'Aerodactyl',
       count: 0,
     },
-    {
+    211: {
       setNumber: '211',
       rarity: '3d',
       cardName: 'Snorlax',
       count: 0,
     },
-    {
+    212: {
       setNumber: '212',
       rarity: '1d',
       cardName: 'Minccino',
       count: 0,
     },
-    {
+    213: {
       setNumber: '213',
       rarity: '2d',
       cardName: 'Cinccino',
       count: 0,
     },
-    {
+    214: {
       setNumber: '214',
       rarity: '1d',
       cardName: 'Wooloo',
       count: 0,
     },
-    {
+    215: {
       setNumber: '215',
       rarity: '1d',
       cardName: 'Dubwool',
       count: 0,
     },
-    {
+    227: {
       setNumber: '227',
       rarity: '1s',
       cardName: 'Bulbasaur',
       count: 0,
     },
-    {
+    228: {
       setNumber: '228',
       rarity: '1s',
       cardName: 'Gloom',
       count: 0,
     },
-    {
+    229: {
       setNumber: '229',
       rarity: '1s',
       cardName: 'Pinsir',
       count: 0,
     },
-    {
+    230: {
       setNumber: '230',
       rarity: '1s',
       cardName: 'Charmander',
       count: 0,
     },
-    {
+    231: {
       setNumber: '231',
       rarity: '1s',
       cardName: 'Rapidash',
       count: 0,
     },
-    {
+    232: {
       setNumber: '232',
       rarity: '1s',
       cardName: 'Squirtle',
       count: 0,
     },
-    {
+    233: {
       setNumber: '233',
       rarity: '1s',
       cardName: 'Gyarados',
       count: 0,
     },
-    {
+    234: {
       setNumber: '234',
       rarity: '1s',
       cardName: 'Lapras',
       count: 0,
     },
-    {
+    235: {
       setNumber: '235',
       rarity: '1s',
       cardName: 'Electrode',
       count: 0,
     },
-    {
+    236: {
       setNumber: '236',
       rarity: '1s',
       cardName: 'Alakazam',
       count: 0,
     },
-    {
+    237: {
       setNumber: '237',
       rarity: '1s',
       cardName: 'Slowpoke',
       count: 0,
     },
-    {
+    238: {
       setNumber: '238',
       rarity: '1s',
       cardName: 'Diglett',
       count: 0,
     },
-    {
+    239: {
       setNumber: '239',
       rarity: '1s',
       cardName: 'Cubone',
       count: 0,
     },
-    {
+    240: {
       setNumber: '240',
       rarity: '1s',
       cardName: 'Nidoqueen',
       count: 0,
     },
-    {
+    241: {
       setNumber: '241',
       rarity: '1s',
       cardName: 'Nidoking',
       count: 0,
     },
-    {
+    242: {
       setNumber: '242',
       rarity: '1s',
       cardName: 'Golbat',
       count: 0,
     },
-    {
+    243: {
       setNumber: '243',
       rarity: '1s',
       cardName: 'Weezing',
       count: 0,
     },
-    {
+    244: {
       setNumber: '244',
       rarity: '1s',
       cardName: 'Dragonite',
       count: 0,
     },
-    {
+    245: {
       setNumber: '245',
       rarity: '1s',
       cardName: 'Pidgeot',
       count: 0,
     },
-    {
+    246: {
       setNumber: '246',
       rarity: '1s',
       cardName: 'Meowth',
       count: 0,
     },
-    {
+    247: {
       setNumber: '247',
       rarity: '1s',
       cardName: 'Ditto',
       count: 0,
     },
-    {
+    248: {
       setNumber: '248',
       rarity: '1s',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    249: {
       setNumber: '249',
       rarity: '1s',
       cardName: 'Porygon',
       count: 0,
     },
-    {
+    250: {
       setNumber: '250',
       rarity: '1s',
       cardName: 'Snorlax',
       count: 0,
     },
-    {
+    251: {
       setNumber: '251',
       rarity: '2s',
       cardName: 'Venusaur ex',
       count: 0,
     },
-    {
+    252: {
       setNumber: '252',
       rarity: '2s',
       cardName: 'Exeggutor ex',
       count: 0,
     },
-    {
+    253: {
       setNumber: '253',
       rarity: '2s',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    254: {
       setNumber: '254',
       rarity: '2s',
       cardName: 'Arcanine ex',
       count: 0,
     },
-    {
+    255: {
       setNumber: '255',
       rarity: '2s',
       cardName: 'Moltres ex',
       count: 0,
     },
-    {
+    256: {
       setNumber: '256',
       rarity: '2s',
       cardName: 'Blastoise ex',
       count: 0,
     },
-    {
+    257: {
       setNumber: '257',
       rarity: '2s',
       cardName: 'Starmie ex',
       count: 0,
     },
-    {
+    258: {
       setNumber: '258',
       rarity: '2s',
       cardName: 'Articuno ex',
       count: 0,
     },
-    {
+    259: {
       setNumber: '259',
       rarity: '2s',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    260: {
       setNumber: '260',
       rarity: '2s',
       cardName: 'Zapdos ex',
       count: 0,
     },
-    {
+    261: {
       setNumber: '261',
       rarity: '2s',
       cardName: 'Gengar ex',
       count: 0,
     },
-    {
+    262: {
       setNumber: '262',
       rarity: '2s',
       cardName: 'Mewtwo ex',
       count: 0,
     },
-    {
+    263: {
       setNumber: '263',
       rarity: '2s',
       cardName: 'Machamp ex',
       count: 0,
     },
-    {
+    264: {
       setNumber: '264',
       rarity: '2s',
       cardName: 'Marowak ex',
       count: 0,
     },
-    {
+    265: {
       setNumber: '265',
       rarity: '2s',
       cardName: 'Wigglytuff ex',
       count: 0,
     },
-    {
+    274: {
       setNumber: '274',
       rarity: '2s',
       cardName: 'Moltres ex',
       count: 0,
     },
-    {
+    275: {
       setNumber: '275',
       rarity: '2s',
       cardName: 'Articuno ex',
       count: 0,
     },
-    {
+    276: {
       setNumber: '276',
       rarity: '2s',
       cardName: 'Zapdos ex',
       count: 0,
     },
-    {
+    277: {
       setNumber: '277',
       rarity: '2s',
       cardName: 'Gengar ex',
       count: 0,
     },
-    {
+    278: {
       setNumber: '278',
       rarity: '2s',
       cardName: 'Machamp ex',
       count: 0,
     },
-    {
+    279: {
       setNumber: '279',
       rarity: '2s',
       cardName: 'Wigglytuff ex',
       count: 0,
     },
-    {
+    280: {
       setNumber: '280',
       rarity: '3s',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    281: {
       setNumber: '281',
       rarity: '3s',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    282: {
       setNumber: '282',
       rarity: '3s',
       cardName: 'Mewtwo ex',
       count: 0,
     },
-    {
+    283: {
       setNumber: '283',
       rarity: '3s',
       cardName: 'Mew',
       count: 0,
     },
-    {
+    284: {
       setNumber: '284',
       rarity: '1c',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    285: {
       setNumber: '285',
       rarity: '1c',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    286: {
       setNumber: '286',
       rarity: '1c',
       cardName: 'Mewtwo ex',
       count: 0,
     },
-  ],
-  'Mythical Island': [
-    {
+  },
+  'Mythical Island': {
+    1: {
       setNumber: '1',
       rarity: '1d',
       cardName: 'Exeggcute',
       count: 0,
     },
-    {
+    2: {
       setNumber: '2',
       rarity: '2d',
       cardName: 'Exeggutor',
       count: 0,
     },
-    {
+    3: {
       setNumber: '3',
       rarity: '4d',
       cardName: 'Celebi ex',
       count: 0,
     },
-    {
+    4: {
       setNumber: '4',
       rarity: '1d',
       cardName: 'Snivy',
       count: 0,
     },
-    {
+    5: {
       setNumber: '5',
       rarity: '2d',
       cardName: 'Servine',
       count: 0,
     },
-    {
+    6: {
       setNumber: '6',
       rarity: '3d',
       cardName: 'Serperior',
       count: 0,
     },
-    {
+    7: {
       setNumber: '7',
       rarity: '1d',
       cardName: 'Morelull',
       count: 0,
     },
-    {
+    8: {
       setNumber: '8',
       rarity: '2d',
       cardName: 'Shiinotic',
       count: 0,
     },
-    {
+    9: {
       setNumber: '9',
       rarity: '2d',
       cardName: 'Dhelmise',
       count: 0,
     },
-    {
+    10: {
       setNumber: '10',
       rarity: '1d',
       cardName: 'Ponyta',
       count: 0,
     },
-    {
+    11: {
       setNumber: '11',
       rarity: '2d',
       cardName: 'Rapidash',
       count: 0,
     },
-    {
+    12: {
       setNumber: '12',
       rarity: '2d',
       cardName: 'Magmar',
       count: 0,
     },
-    {
+    13: {
       setNumber: '13',
       rarity: '1d',
       cardName: 'Larvesta',
       count: 0,
     },
-    {
+    14: {
       setNumber: '14',
       rarity: '3d',
       cardName: 'Volcarona',
       count: 0,
     },
-    {
+    15: {
       setNumber: '15',
       rarity: '1d',
       cardName: 'Salandit',
       count: 0,
     },
-    {
+    16: {
       setNumber: '16',
       rarity: '1d',
       cardName: 'Salazzle',
       count: 0,
     },
-    {
+    17: {
       setNumber: '17',
       rarity: '1d',
       cardName: 'Magikarp',
       count: 0,
     },
-    {
+    18: {
       setNumber: '18',
       rarity: '4d',
       cardName: 'Gyarados ex',
       count: 0,
     },
-    {
+    19: {
       setNumber: '19',
       rarity: '3d',
       cardName: 'Vaporeon',
       count: 0,
     },
-    {
+    20: {
       setNumber: '20',
       rarity: '1d',
       cardName: 'Finneon',
       count: 0,
     },
-    {
+    21: {
       setNumber: '21',
       rarity: '2d',
       cardName: 'Lumineon',
       count: 0,
     },
-    {
+    22: {
       setNumber: '22',
       rarity: '1d',
       cardName: 'Chewtle',
       count: 0,
     },
-    {
+    23: {
       setNumber: '23',
       rarity: '2d',
       cardName: 'Drednaw',
       count: 0,
     },
-    {
+    24: {
       setNumber: '24',
       rarity: '1d',
       cardName: 'Cramorant',
       count: 0,
     },
-    {
+    25: {
       setNumber: '25',
       rarity: '1d',
       cardName: 'Pikachu',
       count: 0,
     },
-    {
+    26: {
       setNumber: '26',
       rarity: '3d',
       cardName: 'Raichu',
       count: 0,
     },
-    {
+    27: {
       setNumber: '27',
       rarity: '2d',
       cardName: 'Electabuzz',
       count: 0,
     },
-    {
+    28: {
       setNumber: '28',
       rarity: '1d',
       cardName: 'Joltik',
       count: 0,
     },
-    {
+    29: {
       setNumber: '29',
       rarity: '2d',
       cardName: 'Galvantula',
       count: 0,
     },
-    {
+    30: {
       setNumber: '30',
       rarity: '1d',
       cardName: 'Dedenne',
       count: 0,
     },
-    {
+    31: {
       setNumber: '31',
       rarity: '3d',
       cardName: 'Mew',
       count: 0,
     },
-    {
+    32: {
       setNumber: '32',
       rarity: '4d',
       cardName: 'Mew ex',
       count: 0,
     },
-    {
+    33: {
       setNumber: '33',
       rarity: '2d',
       cardName: 'Sigilyph',
       count: 0,
     },
-    {
+    34: {
       setNumber: '34',
       rarity: '1d',
       cardName: 'Elgyem',
       count: 0,
     },
-    {
+    35: {
       setNumber: '35',
       rarity: '2d',
       cardName: 'Beheeyem',
       count: 0,
     },
-    {
+    36: {
       setNumber: '36',
       rarity: '1d',
       cardName: 'Flabébé',
       count: 0,
     },
-    {
+    37: {
       setNumber: '37',
       rarity: '1d',
       cardName: 'Floette',
       count: 0,
     },
-    {
+    38: {
       setNumber: '38',
       rarity: '2d',
       cardName: 'Florges',
       count: 0,
     },
-    {
+    39: {
       setNumber: '39',
       rarity: '1d',
       cardName: 'Swirlix',
       count: 0,
     },
-    {
+    40: {
       setNumber: '40',
       rarity: '1d',
       cardName: 'Slurpuff',
       count: 0,
     },
-    {
+    41: {
       setNumber: '41',
       rarity: '1d',
       cardName: 'Mankey',
       count: 0,
     },
-    {
+    42: {
       setNumber: '42',
       rarity: '1d',
       cardName: 'Primeape',
       count: 0,
     },
-    {
+    43: {
       setNumber: '43',
       rarity: '1d',
       cardName: 'Geodude',
       count: 0,
     },
-    {
+    44: {
       setNumber: '44',
       rarity: '2d',
       cardName: 'Graveler',
       count: 0,
     },
-    {
+    45: {
       setNumber: '45',
       rarity: '3d',
       cardName: 'Golem',
       count: 0,
     },
-    {
+    46: {
       setNumber: '46',
       rarity: '4d',
       cardName: 'Aerodactyl ex',
       count: 0,
     },
-    {
+    47: {
       setNumber: '47',
       rarity: '3d',
       cardName: 'Marshadow',
       count: 0,
     },
-    {
+    48: {
       setNumber: '48',
       rarity: '2d',
       cardName: 'Stonjourner',
       count: 0,
     },
-    {
+    49: {
       setNumber: '49',
       rarity: '1d',
       cardName: 'Koffing',
       count: 0,
     },
-    {
+    50: {
       setNumber: '50',
       rarity: '2d',
       cardName: 'Weezing',
       count: 0,
     },
-    {
+    51: {
       setNumber: '51',
       rarity: '1d',
       cardName: 'Purrloin',
       count: 0,
     },
-    {
+    52: {
       setNumber: '52',
       rarity: '1d',
       cardName: 'Liepard',
       count: 0,
     },
-    {
+    53: {
       setNumber: '53',
       rarity: '1d',
       cardName: 'Venipede',
       count: 0,
     },
-    {
+    54: {
       setNumber: '54',
       rarity: '1d',
       cardName: 'Whirlipede',
       count: 0,
     },
-    {
+    55: {
       setNumber: '55',
       rarity: '2d',
       cardName: 'Scolipede',
       count: 0,
     },
-    {
+    56: {
       setNumber: '56',
       rarity: '2d',
       cardName: 'Druddigon',
       count: 0,
     },
-    {
+    57: {
       setNumber: '57',
       rarity: '1d',
       cardName: 'Pidgey',
       count: 0,
     },
-    {
+    58: {
       setNumber: '58',
       rarity: '1d',
       cardName: 'Pidgeotto',
       count: 0,
     },
-    {
+    59: {
       setNumber: '59',
       rarity: '4d',
       cardName: 'Pidgeot ex',
       count: 0,
     },
-    {
+    60: {
       setNumber: '60',
       rarity: '3d',
       cardName: 'Tauros',
       count: 0,
     },
-    {
+    61: {
       setNumber: '61',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    62: {
       setNumber: '62',
       rarity: '1d',
       cardName: 'Chatot',
       count: 0,
     },
-    {
+    69: {
       setNumber: '69',
       rarity: '1s',
       cardName: 'Exeggutor',
       count: 0,
     },
-    {
+    70: {
       setNumber: '70',
       rarity: '1s',
       cardName: 'Serperior',
       count: 0,
     },
-    {
+    71: {
       setNumber: '71',
       rarity: '1s',
       cardName: 'Salandit',
       count: 0,
     },
-    {
+    72: {
       setNumber: '72',
       rarity: '1s',
       cardName: 'Vaporeon',
       count: 0,
     },
-    {
+    73: {
       setNumber: '73',
       rarity: '1s',
       cardName: 'Dedenne',
       count: 0,
     },
-    {
+    74: {
       setNumber: '74',
       rarity: '1s',
       cardName: 'Marshadow',
       count: 0,
     },
-    {
+    75: {
       setNumber: '75',
       rarity: '2s',
       cardName: 'Celebi ex',
       count: 0,
     },
-    {
+    76: {
       setNumber: '76',
       rarity: '2s',
       cardName: 'Gyarados ex',
       count: 0,
     },
-    {
+    77: {
       setNumber: '77',
       rarity: '2s',
       cardName: 'Mew ex',
       count: 0,
     },
-    {
+    78: {
       setNumber: '78',
       rarity: '2s',
       cardName: 'Aerodactyl ex',
       count: 0,
     },
-    {
+    79: {
       setNumber: '79',
       rarity: '2s',
       cardName: 'Pidgeot ex',
       count: 0,
     },
-    {
+    83: {
       setNumber: '83',
       rarity: '2s',
       cardName: 'Mew ex',
       count: 0,
     },
-    {
+    84: {
       setNumber: '84',
       rarity: '2s',
       cardName: 'Aerodactyl ex',
       count: 0,
     },
-    {
+    85: {
       setNumber: '85',
       rarity: '3s',
       cardName: 'Celebi ex',
       count: 0,
     },
-    {
+    86: {
       setNumber: '86',
       rarity: '1c',
       cardName: 'Mew ex',
       count: 0,
     },
-  ],
-  'Space-time Smackdown': [
-    {
+  },
+  'Space-time Smackdown': {
+    1: {
       setNumber: '1',
       rarity: '1d',
       cardName: 'Oddish',
       count: 0,
     },
-    {
+    2: {
       setNumber: '2',
       rarity: '1d',
       cardName: 'Gloom',
       count: 0,
     },
-    {
+    3: {
       setNumber: '3',
       rarity: '2d',
       cardName: 'Bellossom',
       count: 0,
     },
-    {
+    4: {
       setNumber: '4',
       rarity: '1d',
       cardName: 'Tangela',
       count: 0,
     },
-    {
+    5: {
       setNumber: '5',
       rarity: '2d',
       cardName: 'Tangrowth',
       count: 0,
     },
-    {
+    6: {
       setNumber: '6',
       rarity: '1d',
       cardName: 'Yanma',
       count: 0,
     },
-    {
+    7: {
       setNumber: '7',
       rarity: '4d',
       cardName: 'Yanmega ex',
       count: 0,
     },
-    {
+    8: {
       setNumber: '8',
       rarity: '1d',
       cardName: 'Roselia',
       count: 0,
     },
-    {
+    9: {
       setNumber: '9',
       rarity: '2d',
       cardName: 'Roserade',
       count: 0,
     },
-    {
+    10: {
       setNumber: '10',
       rarity: '1d',
       cardName: 'Turtwig',
       count: 0,
     },
-    {
+    11: {
       setNumber: '11',
       rarity: '2d',
       cardName: 'Grotle',
       count: 0,
     },
-    {
+    12: {
       setNumber: '12',
       rarity: '3d',
       cardName: 'Torterra',
       count: 0,
     },
-    {
+    13: {
       setNumber: '13',
       rarity: '1d',
       cardName: 'Kricketot',
       count: 0,
     },
-    {
+    14: {
       setNumber: '14',
       rarity: '1d',
       cardName: 'Kricketune',
       count: 0,
     },
-    {
+    15: {
       setNumber: '15',
       rarity: '1d',
       cardName: 'Burmy',
       count: 0,
     },
-    {
+    16: {
       setNumber: '16',
       rarity: '1d',
       cardName: 'Wormadam',
       count: 0,
     },
-    {
+    17: {
       setNumber: '17',
       rarity: '1d',
       cardName: 'Combee',
       count: 0,
     },
-    {
+    18: {
       setNumber: '18',
       rarity: '2d',
       cardName: 'Vespiquen',
       count: 0,
     },
-    {
+    19: {
       setNumber: '19',
       rarity: '2d',
       cardName: 'Carnivine',
       count: 0,
     },
-    {
+    20: {
       setNumber: '20',
       rarity: '3d',
       cardName: 'Leafeon',
       count: 0,
     },
-    {
+    21: {
       setNumber: '21',
       rarity: '1d',
       cardName: 'Mow Rotom',
       count: 0,
     },
-    {
+    22: {
       setNumber: '22',
       rarity: '3d',
       cardName: 'Shaymin',
       count: 0,
     },
-    {
+    23: {
       setNumber: '23',
       rarity: '1d',
       cardName: 'Magmar',
       count: 0,
     },
-    {
+    24: {
       setNumber: '24',
       rarity: '3d',
       cardName: 'Magmortar',
       count: 0,
     },
-    {
+    25: {
       setNumber: '25',
       rarity: '1d',
       cardName: 'Slugma',
       count: 0,
     },
-    {
+    26: {
       setNumber: '26',
       rarity: '2d',
       cardName: 'Magcargo',
       count: 0,
     },
-    {
+    27: {
       setNumber: '27',
       rarity: '1d',
       cardName: 'Chimchar',
       count: 0,
     },
-    {
+    28: {
       setNumber: '28',
       rarity: '2d',
       cardName: 'Monferno',
       count: 0,
     },
-    {
+    29: {
       setNumber: '29',
       rarity: '4d',
       cardName: 'Infernape ex',
       count: 0,
     },
-    {
+    30: {
       setNumber: '30',
       rarity: '1d',
       cardName: 'Heat Rotom',
       count: 0,
     },
-    {
+    31: {
       setNumber: '31',
       rarity: '1d',
       cardName: 'Swinub',
       count: 0,
     },
-    {
+    32: {
       setNumber: '32',
       rarity: '2d',
       cardName: 'Piloswine',
       count: 0,
     },
-    {
+    33: {
       setNumber: '33',
       rarity: '3d',
       cardName: 'Mamoswine',
       count: 0,
     },
-    {
+    34: {
       setNumber: '34',
       rarity: '2d',
       cardName: 'Regice',
       count: 0,
     },
-    {
+    35: {
       setNumber: '35',
       rarity: '1d',
       cardName: 'Piplup',
       count: 0,
     },
-    {
+    36: {
       setNumber: '36',
       rarity: '2d',
       cardName: 'Prinplup',
       count: 0,
     },
-    {
+    37: {
       setNumber: '37',
       rarity: '3d',
       cardName: 'Empoleon',
       count: 0,
     },
-    {
+    38: {
       setNumber: '38',
       rarity: '1d',
       cardName: 'Buizel',
       count: 0,
     },
-    {
+    39: {
       setNumber: '39',
       rarity: '2d',
       cardName: 'Floatzel',
       count: 0,
     },
-    {
+    40: {
       setNumber: '40',
       rarity: '1d',
       cardName: 'Shellos',
       count: 0,
     },
-    {
+    41: {
       setNumber: '41',
       rarity: '2d',
       cardName: 'Gastrodon',
       count: 0,
     },
-    {
+    42: {
       setNumber: '42',
       rarity: '1d',
       cardName: 'Finneon',
       count: 0,
     },
-    {
+    43: {
       setNumber: '43',
       rarity: '2d',
       cardName: 'Lumineon',
       count: 0,
     },
-    {
+    44: {
       setNumber: '44',
       rarity: '1d',
       cardName: 'Snover',
       count: 0,
     },
-    {
+    45: {
       setNumber: '45',
       rarity: '2d',
       cardName: 'Abomasnow',
       count: 0,
     },
-    {
+    46: {
       setNumber: '46',
       rarity: '3d',
       cardName: 'Glaceon',
       count: 0,
     },
-    {
+    47: {
       setNumber: '47',
       rarity: '1d',
       cardName: 'Wash Rotom',
       count: 0,
     },
-    {
+    48: {
       setNumber: '48',
       rarity: '1d',
       cardName: 'Frost Rotom',
       count: 0,
     },
-    {
+    49: {
       setNumber: '49',
       rarity: '4d',
       cardName: 'Palkia ex',
       count: 0,
     },
-    {
+    50: {
       setNumber: '50',
       rarity: '2d',
       cardName: 'Manaphy',
       count: 0,
     },
-    {
+    51: {
       setNumber: '51',
       rarity: '1d',
       cardName: 'Magnemite',
       count: 0,
     },
-    {
+    52: {
       setNumber: '52',
       rarity: '2d',
       cardName: 'Magneton',
       count: 0,
     },
-    {
+    53: {
       setNumber: '53',
       rarity: '3d',
       cardName: 'Magnezone',
       count: 0,
     },
-    {
+    54: {
       setNumber: '54',
       rarity: '1d',
       cardName: 'Voltorb',
       count: 0,
     },
-    {
+    55: {
       setNumber: '55',
       rarity: '2d',
       cardName: 'Electrode',
       count: 0,
     },
-    {
+    56: {
       setNumber: '56',
       rarity: '1d',
       cardName: 'Electabuzz',
       count: 0,
     },
-    {
+    57: {
       setNumber: '57',
       rarity: '3d',
       cardName: 'Electivire',
       count: 0,
     },
-    {
+    58: {
       setNumber: '58',
       rarity: '1d',
       cardName: 'Shinx',
       count: 0,
     },
-    {
+    59: {
       setNumber: '59',
       rarity: '2d',
       cardName: 'Luxio',
       count: 0,
     },
-    {
+    60: {
       setNumber: '60',
       rarity: '3d',
       cardName: 'Luxray',
       count: 0,
     },
-    {
+    61: {
       setNumber: '61',
       rarity: '4d',
       cardName: 'Pachirisu ex',
       count: 0,
     },
-    {
+    62: {
       setNumber: '62',
       rarity: '1d',
       cardName: 'Rotom',
       count: 0,
     },
-    {
+    63: {
       setNumber: '63',
       rarity: '1d',
       cardName: 'Togepi',
       count: 0,
     },
-    {
+    64: {
       setNumber: '64',
       rarity: '2d',
       cardName: 'Togetic',
       count: 0,
     },
-    {
+    65: {
       setNumber: '65',
       rarity: '3d',
       cardName: 'Togekiss',
       count: 0,
     },
-    {
+    66: {
       setNumber: '66',
       rarity: '1d',
       cardName: 'Misdreavus',
       count: 0,
     },
-    {
+    67: {
       setNumber: '67',
       rarity: '4d',
       cardName: 'Mismagius ex',
       count: 0,
     },
-    {
+    68: {
       setNumber: '68',
       rarity: '1d',
       cardName: 'Ralts',
       count: 0,
     },
-    {
+    69: {
       setNumber: '69',
       rarity: '1d',
       cardName: 'Kirlia',
       count: 0,
     },
-    {
+    70: {
       setNumber: '70',
       rarity: '1d',
       cardName: 'Duskull',
       count: 0,
     },
-    {
+    71: {
       setNumber: '71',
       rarity: '2d',
       cardName: 'Dusclops',
       count: 0,
     },
-    {
+    72: {
       setNumber: '72',
       rarity: '3d',
       cardName: 'Dusknoir',
       count: 0,
     },
-    {
+    73: {
       setNumber: '73',
       rarity: '1d',
       cardName: 'Drifloon',
       count: 0,
     },
-    {
+    74: {
       setNumber: '74',
       rarity: '2d',
       cardName: 'Drifblim',
       count: 0,
     },
-    {
+    75: {
       setNumber: '75',
       rarity: '2d',
       cardName: 'Uxie',
       count: 0,
     },
-    {
+    76: {
       setNumber: '76',
       rarity: '3d',
       cardName: 'Mesprit',
       count: 0,
     },
-    {
+    77: {
       setNumber: '77',
       rarity: '2d',
       cardName: 'Azelf',
       count: 0,
     },
-    {
+    78: {
       setNumber: '78',
       rarity: '3d',
       cardName: 'Giratina',
       count: 0,
     },
-    {
+    79: {
       setNumber: '79',
       rarity: '3d',
       cardName: 'Cresselia',
       count: 0,
     },
-    {
+    80: {
       setNumber: '80',
       rarity: '1d',
       cardName: 'Rhyhorn',
       count: 0,
     },
-    {
+    81: {
       setNumber: '81',
       rarity: '2d',
       cardName: 'Rhydon',
       count: 0,
     },
-    {
+    82: {
       setNumber: '82',
       rarity: '3d',
       cardName: 'Rhyperior',
       count: 0,
     },
-    {
+    83: {
       setNumber: '83',
       rarity: '1d',
       cardName: 'Gligar',
       count: 0,
     },
-    {
+    84: {
       setNumber: '84',
       rarity: '2d',
       cardName: 'Gliscor',
       count: 0,
     },
-    {
+    85: {
       setNumber: '85',
       rarity: '1d',
       cardName: 'Hitmontop',
       count: 0,
     },
-    {
+    86: {
       setNumber: '86',
       rarity: '1d',
       cardName: 'Nosepass',
       count: 0,
     },
-    {
+    87: {
       setNumber: '87',
       rarity: '2d',
       cardName: 'Regirock',
       count: 0,
     },
-    {
+    88: {
       setNumber: '88',
       rarity: '2d',
       cardName: 'Cranidos',
       count: 0,
     },
-    {
+    89: {
       setNumber: '89',
       rarity: '3d',
       cardName: 'Rampardos',
       count: 0,
     },
-    {
+    90: {
       setNumber: '90',
       rarity: '1d',
       cardName: 'Wormadam',
       count: 0,
     },
-    {
+    91: {
       setNumber: '91',
       rarity: '1d',
       cardName: 'Riolu',
       count: 0,
     },
-    {
+    92: {
       setNumber: '92',
       rarity: '3d',
       cardName: 'Lucario',
       count: 0,
     },
-    {
+    93: {
       setNumber: '93',
       rarity: '1d',
       cardName: 'Hippopotas',
       count: 0,
     },
-    {
+    94: {
       setNumber: '94',
       rarity: '2d',
       cardName: 'Hippowdon',
       count: 0,
     },
-    {
+    95: {
       setNumber: '95',
       rarity: '4d',
       cardName: 'Gallade ex',
       count: 0,
     },
-    {
+    96: {
       setNumber: '96',
       rarity: '1d',
       cardName: 'Murkrow',
       count: 0,
     },
-    {
+    97: {
       setNumber: '97',
       rarity: '2d',
       cardName: 'Honchkrow',
       count: 0,
     },
-    {
+    98: {
       setNumber: '98',
       rarity: '1d',
       cardName: 'Sneasel',
       count: 0,
     },
-    {
+    99: {
       setNumber: '99',
       rarity: '4d',
       cardName: 'Weavile ex',
       count: 0,
     },
-    {
+    100: {
       setNumber: '100',
       rarity: '1d',
       cardName: 'Poochyena',
       count: 0,
     },
-    {
+    101: {
       setNumber: '101',
       rarity: '2d',
       cardName: 'Mightyena',
       count: 0,
     },
-    {
+    102: {
       setNumber: '102',
       rarity: '1d',
       cardName: 'Stunky',
       count: 0,
     },
-    {
+    103: {
       setNumber: '103',
       rarity: '2d',
       cardName: 'Skuntank',
       count: 0,
     },
-    {
+    104: {
       setNumber: '104',
       rarity: '2d',
       cardName: 'Spiritomb',
       count: 0,
     },
-    {
+    105: {
       setNumber: '105',
       rarity: '1d',
       cardName: 'Skorupi',
       count: 0,
     },
-    {
+    106: {
       setNumber: '106',
       rarity: '2d',
       cardName: 'Drapion',
       count: 0,
     },
-    {
+    107: {
       setNumber: '107',
       rarity: '1d',
       cardName: 'Croagunk',
       count: 0,
     },
-    {
+    108: {
       setNumber: '108',
       rarity: '2d',
       cardName: 'Toxicroak',
       count: 0,
     },
-    {
+    109: {
       setNumber: '109',
       rarity: '3d',
       cardName: 'Darkrai',
       count: 0,
     },
-    {
+    110: {
       setNumber: '110',
       rarity: '4d',
       cardName: 'Darkrai ex',
       count: 0,
     },
-    {
+    111: {
       setNumber: '111',
       rarity: '2d',
       cardName: 'Skarmory',
       count: 0,
     },
-    {
+    112: {
       setNumber: '112',
       rarity: '2d',
       cardName: 'Registeel',
       count: 0,
     },
-    {
+    113: {
       setNumber: '113',
       rarity: '2d',
       cardName: 'Shieldon',
       count: 0,
     },
-    {
+    114: {
       setNumber: '114',
       rarity: '3d',
       cardName: 'Bastiodon',
       count: 0,
     },
-    {
+    115: {
       setNumber: '115',
       rarity: '1d',
       cardName: 'Wormadam',
       count: 0,
     },
-    {
+    116: {
       setNumber: '116',
       rarity: '1d',
       cardName: 'Bronzor',
       count: 0,
     },
-    {
+    117: {
       setNumber: '117',
       rarity: '2d',
       cardName: 'Bronzong',
       count: 0,
     },
-    {
+    118: {
       setNumber: '118',
       rarity: '2d',
       cardName: 'Probopass',
       count: 0,
     },
-    {
+    119: {
       setNumber: '119',
       rarity: '4d',
       cardName: 'Dialga ex',
       count: 0,
     },
-    {
+    120: {
       setNumber: '120',
       rarity: '3d',
       cardName: 'Heatran',
       count: 0,
     },
-    {
+    121: {
       setNumber: '121',
       rarity: '1d',
       cardName: 'Gible',
       count: 0,
     },
-    {
+    122: {
       setNumber: '122',
       rarity: '2d',
       cardName: 'Gabite',
       count: 0,
     },
-    {
+    123: {
       setNumber: '123',
       rarity: '3d',
       cardName: 'Garchomp',
       count: 0,
     },
-    {
+    124: {
       setNumber: '124',
       rarity: '1d',
       cardName: 'Lickitung',
       count: 0,
     },
-    {
+    125: {
       setNumber: '125',
       rarity: '4d',
       cardName: 'Lickilicky ex',
       count: 0,
     },
-    {
+    126: {
       setNumber: '126',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    127: {
       setNumber: '127',
       rarity: '1d',
       cardName: 'Porygon',
       count: 0,
     },
-    {
+    128: {
       setNumber: '128',
       rarity: '2d',
       cardName: 'Porygon2',
       count: 0,
     },
-    {
+    129: {
       setNumber: '129',
       rarity: '3d',
       cardName: 'Porygon-Z',
       count: 0,
     },
-    {
+    130: {
       setNumber: '130',
       rarity: '1d',
       cardName: 'Aipom',
       count: 0,
     },
-    {
+    131: {
       setNumber: '131',
       rarity: '1d',
       cardName: 'Ambipom',
       count: 0,
     },
-    {
+    132: {
       setNumber: '132',
       rarity: '1d',
       cardName: 'Starly',
       count: 0,
     },
-    {
+    133: {
       setNumber: '133',
       rarity: '1d',
       cardName: 'Staravia',
       count: 0,
     },
-    {
+    134: {
       setNumber: '134',
       rarity: '2d',
       cardName: 'Staraptor',
       count: 0,
     },
-    {
+    135: {
       setNumber: '135',
       rarity: '1d',
       cardName: 'Bidoof',
       count: 0,
     },
-    {
+    136: {
       setNumber: '136',
       rarity: '1d',
       cardName: 'Bibarel',
       count: 0,
     },
-    {
+    137: {
       setNumber: '137',
       rarity: '1d',
       cardName: 'Buneary',
       count: 0,
     },
-    {
+    138: {
       setNumber: '138',
       rarity: '1d',
       cardName: 'Lopunny',
       count: 0,
     },
-    {
+    139: {
       setNumber: '139',
       rarity: '1d',
       cardName: 'Glameow',
       count: 0,
     },
-    {
+    140: {
       setNumber: '140',
       rarity: '2d',
       cardName: 'Purugly',
       count: 0,
     },
-    {
+    141: {
       setNumber: '141',
       rarity: '1d',
       cardName: 'Chatot',
       count: 0,
     },
-    {
+    142: {
       setNumber: '142',
       rarity: '1d',
       cardName: 'Fan Rotom',
       count: 0,
     },
-    {
+    143: {
       setNumber: '143',
       rarity: '3d',
       cardName: 'Regigigas',
       count: 0,
     },
-    {
+    156: {
       setNumber: '156',
       rarity: '1s',
       cardName: 'Tangrowth',
       count: 0,
     },
-    {
+    157: {
       setNumber: '157',
       rarity: '1s',
       cardName: 'Combee',
       count: 0,
     },
-    {
+    158: {
       setNumber: '158',
       rarity: '1s',
       cardName: 'Carnivine',
       count: 0,
     },
-    {
+    159: {
       setNumber: '159',
       rarity: '1s',
       cardName: 'Shaymin',
       count: 0,
     },
-    {
+    160: {
       setNumber: '160',
       rarity: '1s',
       cardName: 'Mamoswine',
       count: 0,
     },
-    {
+    161: {
       setNumber: '161',
       rarity: '1s',
       cardName: 'Gastrodon',
       count: 0,
     },
-    {
+    162: {
       setNumber: '162',
       rarity: '1s',
       cardName: 'Manaphy',
       count: 0,
     },
-    {
+    163: {
       setNumber: '163',
       rarity: '1s',
       cardName: 'Shinx',
       count: 0,
     },
-    {
+    164: {
       setNumber: '164',
       rarity: '1s',
       cardName: 'Rotom',
       count: 0,
     },
-    {
+    165: {
       setNumber: '165',
       rarity: '1s',
       cardName: 'Drifloon',
       count: 0,
     },
-    {
+    166: {
       setNumber: '166',
       rarity: '1s',
       cardName: 'Mesprit',
       count: 0,
     },
-    {
+    167: {
       setNumber: '167',
       rarity: '1s',
       cardName: 'Giratina',
       count: 0,
     },
-    {
+    168: {
       setNumber: '168',
       rarity: '1s',
       cardName: 'Cresselia',
       count: 0,
     },
-    {
+    169: {
       setNumber: '169',
       rarity: '1s',
       cardName: 'Rhyperior',
       count: 0,
     },
-    {
+    170: {
       setNumber: '170',
       rarity: '1s',
       cardName: 'Lucario',
       count: 0,
     },
-    {
+    171: {
       setNumber: '171',
       rarity: '1s',
       cardName: 'Hippopotas',
       count: 0,
     },
-    {
+    172: {
       setNumber: '172',
       rarity: '1s',
       cardName: 'Spiritomb',
       count: 0,
     },
-    {
+    173: {
       setNumber: '173',
       rarity: '1s',
       cardName: 'Croagunk',
       count: 0,
     },
-    {
+    174: {
       setNumber: '174',
       rarity: '1s',
       cardName: 'Heatran',
       count: 0,
     },
-    {
+    175: {
       setNumber: '175',
       rarity: '1s',
       cardName: 'Garchomp',
       count: 0,
     },
-    {
+    176: {
       setNumber: '176',
       rarity: '1s',
       cardName: 'Staraptor',
       count: 0,
     },
-    {
+    177: {
       setNumber: '177',
       rarity: '1s',
       cardName: 'Bidoof',
       count: 0,
     },
-    {
+    178: {
       setNumber: '178',
       rarity: '1s',
       cardName: 'Glameow',
       count: 0,
     },
-    {
+    179: {
       setNumber: '179',
       rarity: '1s',
       cardName: 'Regigigas',
       count: 0,
     },
-    {
+    180: {
       setNumber: '180',
       rarity: '2s',
       cardName: 'Yanmega ex',
       count: 0,
     },
-    {
+    181: {
       setNumber: '181',
       rarity: '2s',
       cardName: 'Infernape ex',
       count: 0,
     },
-    {
+    182: {
       setNumber: '182',
       rarity: '2s',
       cardName: 'Palkia ex',
       count: 0,
     },
-    {
+    183: {
       setNumber: '183',
       rarity: '2s',
       cardName: 'Pachirisu ex',
       count: 0,
     },
-    {
+    184: {
       setNumber: '184',
       rarity: '2s',
       cardName: 'Mismagius ex',
       count: 0,
     },
-    {
+    185: {
       setNumber: '185',
       rarity: '2s',
       cardName: 'Gallade ex',
       count: 0,
     },
-    {
+    186: {
       setNumber: '186',
       rarity: '2s',
       cardName: 'Weavile ex',
       count: 0,
     },
-    {
+    187: {
       setNumber: '187',
       rarity: '2s',
       cardName: 'Darkrai ex',
       count: 0,
     },
-    {
+    188: {
       setNumber: '188',
       rarity: '2s',
       cardName: 'Dialga ex',
       count: 0,
     },
-    {
+    189: {
       setNumber: '189',
       rarity: '2s',
       cardName: 'Lickilicky ex',
       count: 0,
     },
-    {
+    196: {
       setNumber: '196',
       rarity: '2s',
       cardName: 'Yanmega ex',
       count: 0,
     },
-    {
+    197: {
       setNumber: '197',
       rarity: '2s',
       cardName: 'Infernape ex',
       count: 0,
     },
-    {
+    198: {
       setNumber: '198',
       rarity: '2s',
       cardName: 'Pachirisu ex',
       count: 0,
     },
-    {
+    199: {
       setNumber: '199',
       rarity: '2s',
       cardName: 'Mismagius ex',
       count: 0,
     },
-    {
+    200: {
       setNumber: '200',
       rarity: '2s',
       cardName: 'Gallade ex',
       count: 0,
     },
-    {
+    201: {
       setNumber: '201',
       rarity: '2s',
       cardName: 'Weavile ex',
       count: 0,
     },
-    {
+    202: {
       setNumber: '202',
       rarity: '2s',
       cardName: 'Darkrai ex',
       count: 0,
     },
-    {
+    203: {
       setNumber: '203',
       rarity: '2s',
       cardName: 'Lickilicky ex',
       count: 0,
     },
-    {
+    204: {
       setNumber: '204',
       rarity: '3s',
       cardName: 'Palkia ex',
       count: 0,
     },
-    {
+    205: {
       setNumber: '205',
       rarity: '3s',
       cardName: 'Dialga ex',
       count: 0,
     },
-    {
+    206: {
       setNumber: '206',
       rarity: '1c',
       cardName: 'Palkia ex',
       count: 0,
     },
-    {
+    207: {
       setNumber: '207',
       rarity: '1c',
       cardName: 'Dialga ex',
       count: 0,
     },
-  ],
-  'Triumphant Light': [
-    {
+  },
+  'Triumphant Light': {
+    1: {
       setNumber: '1',
       rarity: '2d',
       cardName: 'Heracross',
       count: 0,
     },
-    {
+    2: {
       setNumber: '2',
       rarity: '1d',
       cardName: 'Burmy',
       count: 0,
     },
-    {
+    3: {
       setNumber: '3',
       rarity: '2d',
       cardName: 'Mothim',
       count: 0,
     },
-    {
+    4: {
       setNumber: '4',
       rarity: '1d',
       cardName: 'Combee',
       count: 0,
     },
-    {
+    5: {
       setNumber: '5',
       rarity: '2d',
       cardName: 'Vespiquen',
       count: 0,
     },
-    {
+    6: {
       setNumber: '6',
       rarity: '1d',
       cardName: 'Cherubi',
       count: 0,
     },
-    {
+    7: {
       setNumber: '7',
       rarity: '2d',
       cardName: 'Cherrim',
       count: 0,
     },
-    {
+    8: {
       setNumber: '8',
       rarity: '2d',
       cardName: 'Cherrim',
       count: 0,
     },
-    {
+    9: {
       setNumber: '9',
       rarity: '3d',
       cardName: 'Carnivine',
       count: 0,
     },
-    {
+    10: {
       setNumber: '10',
       rarity: '4d',
       cardName: 'Leafeon ex',
       count: 0,
     },
-    {
+    11: {
       setNumber: '11',
       rarity: '1d',
       cardName: 'Houndour',
       count: 0,
     },
-    {
+    12: {
       setNumber: '12',
       rarity: '2d',
       cardName: 'Houndoom',
       count: 0,
     },
-    {
+    13: {
       setNumber: '13',
       rarity: '3d',
       cardName: 'Heatran',
       count: 0,
     },
-    {
+    14: {
       setNumber: '14',
       rarity: '1d',
       cardName: 'Marill',
       count: 0,
     },
-    {
+    15: {
       setNumber: '15',
       rarity: '1d',
       cardName: 'Azumarill',
       count: 0,
     },
-    {
+    16: {
       setNumber: '16',
       rarity: '1d',
       cardName: 'Barboach',
       count: 0,
     },
-    {
+    17: {
       setNumber: '17',
       rarity: '2d',
       cardName: 'Whiscash',
       count: 0,
     },
-    {
+    18: {
       setNumber: '18',
       rarity: '1d',
       cardName: 'Snorunt',
       count: 0,
     },
-    {
+    19: {
       setNumber: '19',
       rarity: '2d',
       cardName: 'Froslass',
       count: 0,
     },
-    {
+    20: {
       setNumber: '20',
       rarity: '1d',
       cardName: 'Snover',
       count: 0,
     },
-    {
+    21: {
       setNumber: '21',
       rarity: '3d',
       cardName: 'Abomasnow',
       count: 0,
     },
-    {
+    22: {
       setNumber: '22',
       rarity: '4d',
       cardName: 'Glaceon ex',
       count: 0,
     },
-    {
+    23: {
       setNumber: '23',
       rarity: '3d',
       cardName: 'Origin Forme Palkia',
       count: 0,
     },
-    {
+    24: {
       setNumber: '24',
       rarity: '2d',
       cardName: 'Phione',
       count: 0,
     },
-    {
+    25: {
       setNumber: '25',
       rarity: '1d',
       cardName: 'Pikachu',
       count: 0,
     },
-    {
+    26: {
       setNumber: '26',
       rarity: '3d',
       cardName: 'Raichu',
       count: 0,
     },
-    {
+    27: {
       setNumber: '27',
       rarity: '1d',
       cardName: 'Electrike',
       count: 0,
     },
-    {
+    28: {
       setNumber: '28',
       rarity: '2d',
       cardName: 'Manectric',
       count: 0,
     },
-    {
+    29: {
       setNumber: '29',
       rarity: '1d',
       cardName: 'Clefairy',
       count: 0,
     },
-    {
+    30: {
       setNumber: '30',
       rarity: '2d',
       cardName: 'Clefable',
       count: 0,
     },
-    {
+    31: {
       setNumber: '31',
       rarity: '1d',
       cardName: 'Gastly',
       count: 0,
     },
-    {
+    32: {
       setNumber: '32',
       rarity: '1d',
       cardName: 'Haunter',
       count: 0,
     },
-    {
+    33: {
       setNumber: '33',
       rarity: '2d',
       cardName: 'Gengar',
       count: 0,
     },
-    {
+    34: {
       setNumber: '34',
       rarity: '2d',
       cardName: 'Unown',
       count: 0,
     },
-    {
+    35: {
       setNumber: '35',
       rarity: '3d',
       cardName: 'Rotom',
       count: 0,
     },
-    {
+    36: {
       setNumber: '36',
       rarity: '2d',
       cardName: 'Sudowoodo',
       count: 0,
     },
-    {
+    37: {
       setNumber: '37',
       rarity: '1d',
       cardName: 'Phanpy',
       count: 0,
     },
-    {
+    38: {
       setNumber: '38',
       rarity: '2d',
       cardName: 'Donphan',
       count: 0,
     },
-    {
+    39: {
       setNumber: '39',
       rarity: '1d',
       cardName: 'Larvitar',
       count: 0,
     },
-    {
+    40: {
       setNumber: '40',
       rarity: '2d',
       cardName: 'Pupitar',
       count: 0,
     },
-    {
+    41: {
       setNumber: '41',
       rarity: '3d',
       cardName: 'Tyranitar',
       count: 0,
     },
-    {
+    42: {
       setNumber: '42',
       rarity: '1d',
       cardName: 'Nosepass',
       count: 0,
     },
-    {
+    43: {
       setNumber: '43',
       rarity: '1d',
       cardName: 'Meditite',
       count: 0,
     },
-    {
+    44: {
       setNumber: '44',
       rarity: '2d',
       cardName: 'Medicham',
       count: 0,
     },
-    {
+    45: {
       setNumber: '45',
       rarity: '1d',
       cardName: 'Gible',
       count: 0,
     },
-    {
+    46: {
       setNumber: '46',
       rarity: '1d',
       cardName: 'Gabite',
       count: 0,
     },
-    {
+    47: {
       setNumber: '47',
       rarity: '4d',
       cardName: 'Garchomp ex',
       count: 0,
     },
-    {
+    48: {
       setNumber: '48',
       rarity: '1d',
       cardName: 'Zubat',
       count: 0,
     },
-    {
+    49: {
       setNumber: '49',
       rarity: '1d',
       cardName: 'Golbat',
       count: 0,
     },
-    {
+    50: {
       setNumber: '50',
       rarity: '3d',
       cardName: 'Crobat',
       count: 0,
     },
-    {
+    51: {
       setNumber: '51',
       rarity: '1d',
       cardName: 'Croagunk',
       count: 0,
     },
-    {
+    52: {
       setNumber: '52',
       rarity: '2d',
       cardName: 'Toxicroak',
       count: 0,
     },
-    {
+    53: {
       setNumber: '53',
       rarity: '1d',
       cardName: 'Magnemite',
       count: 0,
     },
-    {
+    54: {
       setNumber: '54',
       rarity: '1d',
       cardName: 'Magneton',
       count: 0,
     },
-    {
+    55: {
       setNumber: '55',
       rarity: '3d',
       cardName: 'Magnezone',
       count: 0,
     },
-    {
+    56: {
       setNumber: '56',
       rarity: '1d',
       cardName: 'Mawile',
       count: 0,
     },
-    {
+    57: {
       setNumber: '57',
       rarity: '4d',
       cardName: 'Probopass ex',
       count: 0,
     },
-    {
+    58: {
       setNumber: '58',
       rarity: '1d',
       cardName: 'Bronzor',
       count: 0,
     },
-    {
+    59: {
       setNumber: '59',
       rarity: '2d',
       cardName: 'Bronzong',
       count: 0,
     },
-    {
+    60: {
       setNumber: '60',
       rarity: '3d',
       cardName: 'Origin Forme Dialga',
       count: 0,
     },
-    {
+    61: {
       setNumber: '61',
       rarity: '3d',
       cardName: 'Giratina',
       count: 0,
     },
-    {
+    62: {
       setNumber: '62',
       rarity: '1d',
       cardName: 'Eevee',
       count: 0,
     },
-    {
+    63: {
       setNumber: '63',
       rarity: '2d',
       cardName: 'Snorlax',
       count: 0,
     },
-    {
+    64: {
       setNumber: '64',
       rarity: '1d',
       cardName: 'Hoothoot',
       count: 0,
     },
-    {
+    65: {
       setNumber: '65',
       rarity: '2d',
       cardName: 'Noctowl',
       count: 0,
     },
-    {
+    66: {
       setNumber: '66',
       rarity: '1d',
       cardName: 'Starly',
       count: 0,
     },
-    {
+    67: {
       setNumber: '67',
       rarity: '1d',
       cardName: 'Staravia',
       count: 0,
     },
-    {
+    68: {
       setNumber: '68',
       rarity: '2d',
       cardName: 'Staraptor',
       count: 0,
     },
-    {
+    69: {
       setNumber: '69',
       rarity: '3d',
       cardName: 'Shaymin',
       count: 0,
     },
-    {
+    70: {
       setNumber: '70',
       rarity: '3d',
       cardName: 'Arceus',
       count: 0,
     },
-    {
+    71: {
       setNumber: '71',
       rarity: '4d',
       cardName: 'Arceus ex',
       count: 0,
     },
-    {
+    76: {
       setNumber: '76',
       rarity: '1s',
       cardName: 'Houndoom',
       count: 0,
     },
-    {
+    77: {
       setNumber: '77',
       rarity: '1s',
       cardName: 'Marill',
       count: 0,
     },
-    {
+    78: {
       setNumber: '78',
       rarity: '1s',
       cardName: 'Unown',
       count: 0,
     },
-    {
+    79: {
       setNumber: '79',
       rarity: '1s',
       cardName: 'Sudowoodo',
       count: 0,
     },
-    {
+    80: {
       setNumber: '80',
       rarity: '1s',
       cardName: 'Magnemite',
       count: 0,
     },
-    {
+    81: {
       setNumber: '81',
       rarity: '1s',
       cardName: 'Shaymin',
       count: 0,
     },
-    {
+    82: {
       setNumber: '82',
       rarity: '2s',
       cardName: 'Leafeon ex',
       count: 0,
     },
-    {
+    83: {
       setNumber: '83',
       rarity: '2s',
       cardName: 'Glaceon ex',
       count: 0,
     },
-    {
+    84: {
       setNumber: '84',
       rarity: '2s',
       cardName: 'Garchomp ex',
       count: 0,
     },
-    {
+    85: {
       setNumber: '85',
       rarity: '2s',
       cardName: 'Probopass ex',
       count: 0,
     },
-    {
+    86: {
       setNumber: '86',
       rarity: '2s',
       cardName: 'Arceus ex',
       count: 0,
     },
-    {
+    91: {
       setNumber: '91',
       rarity: '2s',
       cardName: 'Leafeon ex',
       count: 0,
     },
-    {
+    92: {
       setNumber: '92',
       rarity: '2s',
       cardName: 'Glaceon ex',
       count: 0,
     },
-    {
+    93: {
       setNumber: '93',
       rarity: '2s',
       cardName: 'Garchomp ex',
       count: 0,
     },
-    {
+    94: {
       setNumber: '94',
       rarity: '2s',
       cardName: 'Probopass ex',
       count: 0,
     },
-    {
+    95: {
       setNumber: '95',
       rarity: '3s',
       cardName: 'Arceus ex',
       count: 0,
     },
-    {
+    96: {
       setNumber: '96',
       rarity: '1c',
       cardName: 'Arceus ex',
       count: 0,
     },
-  ],
-  'Shining Revelry': [
-    {
+  },
+  'Shining Revelry': {
+    1: {
       setNumber: '1',
       rarity: '1d',
       cardName: 'Weedle',
       count: 0,
     },
-    {
+    2: {
       setNumber: '2',
       rarity: '2d',
       cardName: 'Kakuna',
       count: 0,
     },
-    {
+    3: {
       setNumber: '3',
       rarity: '4d',
       cardName: 'Beedrill ex',
       count: 0,
     },
-    {
+    4: {
       setNumber: '4',
       rarity: '1d',
       cardName: 'Pinsir',
       count: 0,
     },
-    {
+    5: {
       setNumber: '5',
       rarity: '1d',
       cardName: 'Sprigatito',
       count: 0,
     },
-    {
+    6: {
       setNumber: '6',
       rarity: '2d',
       cardName: 'Floragato',
       count: 0,
     },
-    {
+    7: {
       setNumber: '7',
       rarity: '3d',
       cardName: 'Meowscarada',
       count: 0,
     },
-    {
+    8: {
       setNumber: '8',
       rarity: '1d',
       cardName: 'Charmander',
       count: 0,
     },
-    {
+    9: {
       setNumber: '9',
       rarity: '2d',
       cardName: 'Charmeleon',
       count: 0,
     },
-    {
+    10: {
       setNumber: '10',
       rarity: '4d',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    11: {
       setNumber: '11',
       rarity: '1d',
       cardName: 'Magmar',
       count: 0,
     },
-    {
+    12: {
       setNumber: '12',
       rarity: '3d',
       cardName: 'Magmortar',
       count: 0,
     },
-    {
+    13: {
       setNumber: '13',
       rarity: '2d',
       cardName: 'Paldean Tauros',
       count: 0,
     },
-    {
+    14: {
       setNumber: '14',
       rarity: '1d',
       cardName: 'Tentacool',
       count: 0,
     },
-    {
+    15: {
       setNumber: '15',
       rarity: '2d',
       cardName: 'Tentacruel',
       count: 0,
     },
-    {
+    16: {
       setNumber: '16',
       rarity: '1d',
       cardName: 'Buizel',
       count: 0,
     },
-    {
+    17: {
       setNumber: '17',
       rarity: '2d',
       cardName: 'Floatzel',
       count: 0,
     },
-    {
+    18: {
       setNumber: '18',
       rarity: '1d',
       cardName: 'Wiglett',
       count: 0,
     },
-    {
+    19: {
       setNumber: '19',
       rarity: '4d',
       cardName: 'Wugtrio ex',
       count: 0,
     },
-    {
+    20: {
       setNumber: '20',
       rarity: '3d',
       cardName: 'Dondozo',
       count: 0,
     },
-    {
+    21: {
       setNumber: '21',
       rarity: '2d',
       cardName: 'Tatsugiri',
       count: 0,
     },
-    {
+    22: {
       setNumber: '22',
       rarity: '4d',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    23: {
       setNumber: '23',
       rarity: '1d',
       cardName: 'Voltorb',
       count: 0,
     },
-    {
+    24: {
       setNumber: '24',
       rarity: '2d',
       cardName: 'Electrode',
       count: 0,
     },
-    {
+    25: {
       setNumber: '25',
       rarity: '2d',
       cardName: 'Pachirisu',
       count: 0,
     },
-    {
+    26: {
       setNumber: '26',
       rarity: '1d',
       cardName: 'Pawmi',
       count: 0,
     },
-    {
+    27: {
       setNumber: '27',
       rarity: '2d',
       cardName: 'Pawmo',
       count: 0,
     },
-    {
+    28: {
       setNumber: '28',
       rarity: '3d',
       cardName: 'Pawmot',
       count: 0,
     },
-    {
+    29: {
       setNumber: '29',
       rarity: '1d',
       cardName: 'Abra',
       count: 0,
     },
-    {
+    30: {
       setNumber: '30',
       rarity: '2d',
       cardName: 'Kadabra',
       count: 0,
     },
-    {
+    31: {
       setNumber: '31',
       rarity: '3d',
       cardName: 'Alakazam',
       count: 0,
     },
-    {
+    32: {
       setNumber: '32',
       rarity: '1d',
       cardName: 'Mr. Mime',
       count: 0,
     },
-    {
+    33: {
       setNumber: '33',
       rarity: '1d',
       cardName: 'Drifloon',
       count: 0,
     },
-    {
+    34: {
       setNumber: '34',
       rarity: '2d',
       cardName: 'Drifblim',
       count: 0,
     },
-    {
+    35: {
       setNumber: '35',
       rarity: '4d',
       cardName: 'Giratina ex',
       count: 0,
     },
-    {
+    36: {
       setNumber: '36',
       rarity: '1d',
       cardName: 'Gimmighoul',
       count: 0,
     },
-    {
+    37: {
       setNumber: '37',
       rarity: '1d',
       cardName: 'Machop',
       count: 0,
     },
-    {
+    38: {
       setNumber: '38',
       rarity: '1d',
       cardName: 'Machoke',
       count: 0,
     },
-    {
+    39: {
       setNumber: '39',
       rarity: '3d',
       cardName: 'Machamp',
       count: 0,
     },
-    {
+    40: {
       setNumber: '40',
       rarity: '1d',
       cardName: 'Hitmonlee',
       count: 0,
     },
-    {
+    41: {
       setNumber: '41',
       rarity: '1d',
       cardName: 'Hitmonchan',
       count: 0,
     },
-    {
+    42: {
       setNumber: '42',
       rarity: '1d',
       cardName: 'Riolu',
       count: 0,
     },
-    {
+    43: {
       setNumber: '43',
       rarity: '4d',
       cardName: 'Lucario ex',
       count: 0,
     },
-    {
+    44: {
       setNumber: '44',
       rarity: '2d',
       cardName: 'Flamigo',
       count: 0,
     },
-    {
+    45: {
       setNumber: '45',
       rarity: '1d',
       cardName: 'Ekans',
       count: 0,
     },
-    {
+    46: {
       setNumber: '46',
       rarity: '2d',
       cardName: 'Arbok',
       count: 0,
     },
-    {
+    47: {
       setNumber: '47',
       rarity: '1d',
       cardName: 'Paldean Wooper',
       count: 0,
     },
-    {
+    48: {
       setNumber: '48',
       rarity: '4d',
       cardName: 'Paldean Clodsire ex',
       count: 0,
     },
-    {
+    49: {
       setNumber: '49',
       rarity: '2d',
       cardName: 'Spiritomb',
       count: 0,
     },
-    {
+    50: {
       setNumber: '50',
       rarity: '1d',
       cardName: 'Shroodle',
       count: 0,
     },
-    {
+    51: {
       setNumber: '51',
       rarity: '3d',
       cardName: 'Grafaiai',
       count: 0,
     },
-    {
+    52: {
       setNumber: '52',
       rarity: '1d',
       cardName: 'Tinkatink',
       count: 0,
     },
-    {
+    53: {
       setNumber: '53',
       rarity: '2d',
       cardName: 'Tinkatuff',
       count: 0,
     },
-    {
+    54: {
       setNumber: '54',
       rarity: '4d',
       cardName: 'Tinkaton ex',
       count: 0,
     },
-    {
+    55: {
       setNumber: '55',
       rarity: '1d',
       cardName: 'Varoom',
       count: 0,
     },
-    {
+    56: {
       setNumber: '56',
       rarity: '2d',
       cardName: 'Revavroom',
       count: 0,
     },
-    {
+    57: {
       setNumber: '57',
       rarity: '3d',
       cardName: 'Gholdengo',
       count: 0,
     },
-    {
+    58: {
       setNumber: '58',
       rarity: '1d',
       cardName: 'Rattata',
       count: 0,
     },
-    {
+    59: {
       setNumber: '59',
       rarity: '1d',
       cardName: 'Raticate',
       count: 0,
     },
-    {
+    60: {
       setNumber: '60',
       rarity: '1d',
       cardName: 'Jigglypuff',
       count: 0,
     },
-    {
+    61: {
       setNumber: '61',
       rarity: '3d',
       cardName: 'Wigglytuff',
       count: 0,
     },
-    {
+    62: {
       setNumber: '62',
       rarity: '1d',
       cardName: 'Lickitung',
       count: 0,
     },
-    {
+    63: {
       setNumber: '63',
       rarity: '1d',
       cardName: 'Lickilicky',
       count: 0,
     },
-    {
+    64: {
       setNumber: '64',
       rarity: '1d',
       cardName: 'Bidoof',
       count: 0,
     },
-    {
+    65: {
       setNumber: '65',
       rarity: '4d',
       cardName: 'Bibarel ex',
       count: 0,
     },
-    {
+    66: {
       setNumber: '66',
       rarity: '1d',
       cardName: 'Buneary',
       count: 0,
     },
-    {
+    67: {
       setNumber: '67',
       rarity: '1d',
       cardName: 'Lopunny',
       count: 0,
     },
-    {
+    68: {
       setNumber: '68',
       rarity: '2d',
       cardName: 'Cyclizar',
       count: 0,
     },
-    {
+    73: {
       setNumber: '73',
       rarity: '1s',
       cardName: 'Meowscarada',
       count: 0,
     },
-    {
+    74: {
       setNumber: '74',
       rarity: '1s',
       cardName: 'Buizel',
       count: 0,
     },
-    {
+    75: {
       setNumber: '75',
       rarity: '1s',
       cardName: 'Tatsugiri',
       count: 0,
     },
-    {
+    76: {
       setNumber: '76',
       rarity: '1s',
       cardName: 'Grafaiai',
       count: 0,
     },
-    {
+    77: {
       setNumber: '77',
       rarity: '1s',
       cardName: 'Gholdengo',
       count: 0,
     },
-    {
+    78: {
       setNumber: '78',
       rarity: '1s',
       cardName: 'Wigglytuff',
       count: 0,
     },
-    {
+    79: {
       setNumber: '79',
       rarity: '2s',
       cardName: 'Beedrill ex',
       count: 0,
     },
-    {
+    80: {
       setNumber: '80',
       rarity: '2s',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    81: {
       setNumber: '81',
       rarity: '2s',
       cardName: 'Wugtrio ex',
       count: 0,
     },
-    {
+    82: {
       setNumber: '82',
       rarity: '2s',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    83: {
       setNumber: '83',
       rarity: '2s',
       cardName: 'Giratina ex',
       count: 0,
     },
-    {
+    84: {
       setNumber: '84',
       rarity: '2s',
       cardName: 'Lucario ex',
       count: 0,
     },
-    {
+    85: {
       setNumber: '85',
       rarity: '2s',
       cardName: 'Paldean Clodsire ex',
       count: 0,
     },
-    {
+    86: {
       setNumber: '86',
       rarity: '2s',
       cardName: 'Tinkaton ex',
       count: 0,
     },
-    {
+    87: {
       setNumber: '87',
       rarity: '2s',
       cardName: 'Bibarel ex',
       count: 0,
     },
-    {
+    92: {
       setNumber: '92',
       rarity: '2s',
       cardName: 'Pikachu ex',
       count: 0,
     },
-    {
+    93: {
       setNumber: '93',
       rarity: '2s',
       cardName: 'Paldean Clodsire ex',
       count: 0,
     },
-    {
+    94: {
       setNumber: '94',
       rarity: '2s',
       cardName: 'Tinkaton ex',
       count: 0,
     },
-    {
+    95: {
       setNumber: '95',
       rarity: '2s',
       cardName: 'Bibarel ex',
       count: 0,
     },
-    {
+    96: {
       setNumber: '96',
       rarity: '3s',
       cardName: 'Giratina ex',
       count: 0,
     },
-    {
+    97: {
       setNumber: '97',
       rarity: '1sh',
       cardName: 'Weedle',
       count: 0,
     },
-    {
+    98: {
       setNumber: '98',
       rarity: '1sh',
       cardName: 'Kakuna',
       count: 0,
     },
-    {
+    99: {
       setNumber: '99',
       rarity: '1sh',
       cardName: 'Charmander',
       count: 0,
     },
-    {
+    100: {
       setNumber: '100',
       rarity: '1sh',
       cardName: 'Charmeleon',
       count: 0,
     },
-    {
+    101: {
       setNumber: '101',
       rarity: '1sh',
       cardName: 'Wiglett',
       count: 0,
     },
-    {
+    102: {
       setNumber: '102',
       rarity: '1sh',
       cardName: 'Dondozo',
       count: 0,
     },
-    {
+    103: {
       setNumber: '103',
       rarity: '1sh',
       cardName: 'Pachirisu',
       count: 0,
     },
-    {
+    104: {
       setNumber: '104',
       rarity: '1sh',
       cardName: 'Riolu',
       count: 0,
     },
-    {
+    105: {
       setNumber: '105',
       rarity: '1sh',
       cardName: 'Varoom',
       count: 0,
     },
-    {
+    106: {
       setNumber: '106',
       rarity: '1sh',
       cardName: 'Revavroom',
       count: 0,
     },
-    {
+    107: {
       setNumber: '107',
       rarity: '2sh',
       cardName: 'Beedrill ex',
       count: 0,
     },
-    {
+    108: {
       setNumber: '108',
       rarity: '2sh',
       cardName: 'Charizard ex',
       count: 0,
     },
-    {
+    109: {
       setNumber: '109',
       rarity: '2sh',
       cardName: 'Wugtrio ex',
       count: 0,
     },
-    {
+    110: {
       setNumber: '110',
       rarity: '2sh',
       cardName: 'Lucario ex',
       count: 0,
     },
-  ],
+  },
 };

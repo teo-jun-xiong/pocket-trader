@@ -52,8 +52,7 @@ async function extractSetData(setName) {
 
     return rows
       .filter(
-        (row) =>
-          row.innerText.includes(setName) && row.innerText.includes('Weakness')
+        (row) => row.innerText.includes(setName) && row.innerText.includes('/')
       )
       .map((row) => {
         const cells = row.querySelectorAll('td');

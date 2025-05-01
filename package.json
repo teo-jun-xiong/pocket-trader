@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prepare": "husky install",
     "scrape-data": "node ./src/data/scripts/serebii-scrapping.js && node src/data/scripts/add-keys-to-json.js && node src/data/scripts/initialize-empty-collection.js",
     "dev": "next dev",
     "build": "next build",
@@ -22,6 +23,7 @@
     "axios": "^1.8.4",
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
+    "husky": "^9.1.7",
     "playwright": "^1.51.1",
     "prettier": "^3.5.3",
     "tailwindcss": "^4"

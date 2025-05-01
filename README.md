@@ -37,6 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Seeding Data
 
-1. `node src/data/scripts/serebii-scrapping.js` to get all the names and rarities of Pokemon.
-2. `node src/data/scripts/add-keys-to-json.js` to append the set number to each object for each set.
-3. `node src/data/scripts/initialize-empty-collection.js` to create or update the Javascript object representing all the cards in every set.
+Run `npm run scrape-data`.

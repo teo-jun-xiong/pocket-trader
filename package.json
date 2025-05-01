@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "scrape-data": "node ./src/data/scripts/serebii-scrapping.js && node src/data/scripts/add-keys-to-json.js && node src/data/scripts/initialize-empty-collection.js",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

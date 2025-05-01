@@ -4,6 +4,7 @@ const CardSet = Object.freeze({
   SPACE_TIME_SMACKDOWN: 'Space-time Smackdown',
   TRIUMPHANT_LIGHT: 'Triumphant Light',
   SHINING_REVELRY: 'Shining Revelry',
+  CELESTIAL_GUARDIANS: 'Celestial Guardians',
 });
 
 export default CardSet;

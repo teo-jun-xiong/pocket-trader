@@ -1,0 +1,1197 @@
+{
+  "1": {
+    "setNumber": "1",
+    "rarity": "1d",
+    "cardName": "Exeggcute"
+  },
+  "2": {
+    "setNumber": "2",
+    "rarity": "3d",
+    "cardName": "Alolan Exeggutor"
+  },
+  "3": {
+    "setNumber": "3",
+    "rarity": "1d",
+    "cardName": "Surskit"
+  },
+  "4": {
+    "setNumber": "4",
+    "rarity": "2d",
+    "cardName": "Masquerain"
+  },
+  "5": {
+    "setNumber": "5",
+    "rarity": "1d",
+    "cardName": "Maractus"
+  },
+  "6": {
+    "setNumber": "6",
+    "rarity": "1d",
+    "cardName": "Karrablast"
+  },
+  "7": {
+    "setNumber": "7",
+    "rarity": "1d",
+    "cardName": "Phantump"
+  },
+  "8": {
+    "setNumber": "8",
+    "rarity": "2d",
+    "cardName": "Trevenant"
+  },
+  "9": {
+    "setNumber": "9",
+    "rarity": "1d",
+    "cardName": "Rowlet"
+  },
+  "10": {
+    "setNumber": "10",
+    "rarity": "1d",
+    "cardName": "Rowlet"
+  },
+  "11": {
+    "setNumber": "11",
+    "rarity": "2d",
+    "cardName": "Dartrix"
+  },
+  "12": {
+    "setNumber": "12",
+    "rarity": "4d",
+    "cardName": "Decidueye ex"
+  },
+  "13": {
+    "setNumber": "13",
+    "rarity": "1d",
+    "cardName": "Grubbin"
+  },
+  "14": {
+    "setNumber": "14",
+    "rarity": "1d",
+    "cardName": "Fomantis"
+  },
+  "15": {
+    "setNumber": "15",
+    "rarity": "2d",
+    "cardName": "Lurantis"
+  },
+  "16": {
+    "setNumber": "16",
+    "rarity": "1d",
+    "cardName": "Morelull"
+  },
+  "17": {
+    "setNumber": "17",
+    "rarity": "2d",
+    "cardName": "Shiinotic"
+  },
+  "18": {
+    "setNumber": "18",
+    "rarity": "1d",
+    "cardName": "Bounsweet"
+  },
+  "19": {
+    "setNumber": "19",
+    "rarity": "2d",
+    "cardName": "Steenee"
+  },
+  "20": {
+    "setNumber": "20",
+    "rarity": "3d",
+    "cardName": "Tsareena"
+  },
+  "21": {
+    "setNumber": "21",
+    "rarity": "1d",
+    "cardName": "Wimpod"
+  },
+  "22": {
+    "setNumber": "22",
+    "rarity": "3d",
+    "cardName": "Golisopod"
+  },
+  "23": {
+    "setNumber": "23",
+    "rarity": "4d",
+    "cardName": "Dhelmise ex"
+  },
+  "24": {
+    "setNumber": "24",
+    "rarity": "3d",
+    "cardName": "Tapu Bulu"
+  },
+  "25": {
+    "setNumber": "25",
+    "rarity": "1d",
+    "cardName": "Growlithe"
+  },
+  "26": {
+    "setNumber": "26",
+    "rarity": "2d",
+    "cardName": "Arcanine"
+  },
+  "27": {
+    "setNumber": "27",
+    "rarity": "2d",
+    "cardName": "Alolan Marowak"
+  },
+  "28": {
+    "setNumber": "28",
+    "rarity": "1d",
+    "cardName": "Fletchinder"
+  },
+  "29": {
+    "setNumber": "29",
+    "rarity": "3d",
+    "cardName": "Talonflame"
+  },
+  "30": {
+    "setNumber": "30",
+    "rarity": "1d",
+    "cardName": "Litten"
+  },
+  "31": {
+    "setNumber": "31",
+    "rarity": "1d",
+    "cardName": "Litten"
+  },
+  "32": {
+    "setNumber": "32",
+    "rarity": "2d",
+    "cardName": "Torracat"
+  },
+  "33": {
+    "setNumber": "33",
+    "rarity": "4d",
+    "cardName": "Incineroar ex"
+  },
+  "34": {
+    "setNumber": "34",
+    "rarity": "2d",
+    "cardName": "Oricorio"
+  },
+  "35": {
+    "setNumber": "35",
+    "rarity": "1d",
+    "cardName": "Salandit"
+  },
+  "36": {
+    "setNumber": "36",
+    "rarity": "1d",
+    "cardName": "Salazzle"
+  },
+  "37": {
+    "setNumber": "37",
+    "rarity": "3d",
+    "cardName": "Turtonator"
+  },
+  "38": {
+    "setNumber": "38",
+    "rarity": "1d",
+    "cardName": "Alolan Sandshrew"
+  },
+  "39": {
+    "setNumber": "39",
+    "rarity": "2d",
+    "cardName": "Alolan Sandslash"
+  },
+  "40": {
+    "setNumber": "40",
+    "rarity": "1d",
+    "cardName": "Alolan Vulpix"
+  },
+  "41": {
+    "setNumber": "41",
+    "rarity": "3d",
+    "cardName": "Alolan Ninetales"
+  },
+  "42": {
+    "setNumber": "42",
+    "rarity": "1d",
+    "cardName": "Shellder"
+  },
+  "43": {
+    "setNumber": "43",
+    "rarity": "2d",
+    "cardName": "Cloyster"
+  },
+  "44": {
+    "setNumber": "44",
+    "rarity": "2d",
+    "cardName": "Lapras"
+  },
+  "45": {
+    "setNumber": "45",
+    "rarity": "1d",
+    "cardName": "Popplio"
+  },
+  "46": {
+    "setNumber": "46",
+    "rarity": "1d",
+    "cardName": "Popplio"
+  },
+  "47": {
+    "setNumber": "47",
+    "rarity": "2d",
+    "cardName": "Brionne"
+  },
+  "48": {
+    "setNumber": "48",
+    "rarity": "3d",
+    "cardName": "Primarina"
+  },
+  "49": {
+    "setNumber": "49",
+    "rarity": "4d",
+    "cardName": "Crabominable ex"
+  },
+  "50": {
+    "setNumber": "50",
+    "rarity": "1d",
+    "cardName": "Wishiwashi"
+  },
+  "51": {
+    "setNumber": "51",
+    "rarity": "4d",
+    "cardName": "Wishiwashi ex"
+  },
+  "52": {
+    "setNumber": "52",
+    "rarity": "1d",
+    "cardName": "Dewpider"
+  },
+  "53": {
+    "setNumber": "53",
+    "rarity": "2d",
+    "cardName": "Araquanid"
+  },
+  "54": {
+    "setNumber": "54",
+    "rarity": "1d",
+    "cardName": "Pyukumuku"
+  },
+  "55": {
+    "setNumber": "55",
+    "rarity": "1d",
+    "cardName": "Bruxish"
+  },
+  "56": {
+    "setNumber": "56",
+    "rarity": "3d",
+    "cardName": "Tapu Fini"
+  },
+  "57": {
+    "setNumber": "57",
+    "rarity": "1d",
+    "cardName": "Pikachu"
+  },
+  "58": {
+    "setNumber": "58",
+    "rarity": "4d",
+    "cardName": "Alolan Raichu ex"
+  },
+  "59": {
+    "setNumber": "59",
+    "rarity": "1d",
+    "cardName": "Alolan Geodude"
+  },
+  "60": {
+    "setNumber": "60",
+    "rarity": "2d",
+    "cardName": "Alolan Graveler"
+  },
+  "61": {
+    "setNumber": "61",
+    "rarity": "3d",
+    "cardName": "Alolan Golem"
+  },
+  "62": {
+    "setNumber": "62",
+    "rarity": "1d",
+    "cardName": "Helioptile"
+  },
+  "63": {
+    "setNumber": "63",
+    "rarity": "1d",
+    "cardName": "Heliolisk"
+  },
+  "64": {
+    "setNumber": "64",
+    "rarity": "2d",
+    "cardName": "Charjabug"
+  },
+  "65": {
+    "setNumber": "65",
+    "rarity": "3d",
+    "cardName": "Vikavolt"
+  },
+  "66": {
+    "setNumber": "66",
+    "rarity": "3d",
+    "cardName": "Oricorio"
+  },
+  "67": {
+    "setNumber": "67",
+    "rarity": "1d",
+    "cardName": "Togedemaru"
+  },
+  "68": {
+    "setNumber": "68",
+    "rarity": "3d",
+    "cardName": "Tapu Koko"
+  },
+  "69": {
+    "setNumber": "69",
+    "rarity": "2d",
+    "cardName": "Mr. Mime"
+  },
+  "70": {
+    "setNumber": "70",
+    "rarity": "2d",
+    "cardName": "Sableye"
+  },
+  "71": {
+    "setNumber": "71",
+    "rarity": "1d",
+    "cardName": "Spoink"
+  },
+  "72": {
+    "setNumber": "72",
+    "rarity": "2d",
+    "cardName": "Grumpig"
+  },
+  "73": {
+    "setNumber": "73",
+    "rarity": "1d",
+    "cardName": "Lunatone"
+  },
+  "74": {
+    "setNumber": "74",
+    "rarity": "1d",
+    "cardName": "Shuppet"
+  },
+  "75": {
+    "setNumber": "75",
+    "rarity": "1d",
+    "cardName": "Banette"
+  },
+  "76": {
+    "setNumber": "76",
+    "rarity": "2d",
+    "cardName": "Oricorio"
+  },
+  "77": {
+    "setNumber": "77",
+    "rarity": "2d",
+    "cardName": "Oricorio"
+  },
+  "78": {
+    "setNumber": "78",
+    "rarity": "1d",
+    "cardName": "Cutiefly"
+  },
+  "79": {
+    "setNumber": "79",
+    "rarity": "2d",
+    "cardName": "Ribombee"
+  },
+  "80": {
+    "setNumber": "80",
+    "rarity": "3d",
+    "cardName": "Comfey"
+  },
+  "81": {
+    "setNumber": "81",
+    "rarity": "1d",
+    "cardName": "Sandygast"
+  },
+  "82": {
+    "setNumber": "82",
+    "rarity": "3d",
+    "cardName": "Palossand"
+  },
+  "83": {
+    "setNumber": "83",
+    "rarity": "1d",
+    "cardName": "Mimikyu"
+  },
+  "84": {
+    "setNumber": "84",
+    "rarity": "3d",
+    "cardName": "Tapu Lele"
+  },
+  "85": {
+    "setNumber": "85",
+    "rarity": "1d",
+    "cardName": "Cosmog"
+  },
+  "86": {
+    "setNumber": "86",
+    "rarity": "2d",
+    "cardName": "Cosmoem"
+  },
+  "87": {
+    "setNumber": "87",
+    "rarity": "4d",
+    "cardName": "Lunala ex"
+  },
+  "88": {
+    "setNumber": "88",
+    "rarity": "3d",
+    "cardName": "Necrozma"
+  },
+  "89": {
+    "setNumber": "89",
+    "rarity": "1d",
+    "cardName": "Cubone"
+  },
+  "90": {
+    "setNumber": "90",
+    "rarity": "1d",
+    "cardName": "Makuhita"
+  },
+  "91": {
+    "setNumber": "91",
+    "rarity": "2d",
+    "cardName": "Hariyama"
+  },
+  "92": {
+    "setNumber": "92",
+    "rarity": "1d",
+    "cardName": "Solrock"
+  },
+  "93": {
+    "setNumber": "93",
+    "rarity": "1d",
+    "cardName": "Drilbur"
+  },
+  "94": {
+    "setNumber": "94",
+    "rarity": "1d",
+    "cardName": "Timburr"
+  },
+  "95": {
+    "setNumber": "95",
+    "rarity": "2d",
+    "cardName": "Gurdurr"
+  },
+  "96": {
+    "setNumber": "96",
+    "rarity": "3d",
+    "cardName": "Conkeldurr"
+  },
+  "97": {
+    "setNumber": "97",
+    "rarity": "1d",
+    "cardName": "Crabrawler"
+  },
+  "98": {
+    "setNumber": "98",
+    "rarity": "1d",
+    "cardName": "Rockruff"
+  },
+  "99": {
+    "setNumber": "99",
+    "rarity": "1d",
+    "cardName": "Rockruff"
+  },
+  "100": {
+    "setNumber": "100",
+    "rarity": "3d",
+    "cardName": "Lycanroc"
+  },
+  "101": {
+    "setNumber": "101",
+    "rarity": "3d",
+    "cardName": "Lycanroc"
+  },
+  "102": {
+    "setNumber": "102",
+    "rarity": "1d",
+    "cardName": "Mudbray"
+  },
+  "103": {
+    "setNumber": "103",
+    "rarity": "2d",
+    "cardName": "Mudsdale"
+  },
+  "104": {
+    "setNumber": "104",
+    "rarity": "4d",
+    "cardName": "Passimian ex"
+  },
+  "105": {
+    "setNumber": "105",
+    "rarity": "2d",
+    "cardName": "Minior"
+  },
+  "106": {
+    "setNumber": "106",
+    "rarity": "1d",
+    "cardName": "Alolan Rattata"
+  },
+  "107": {
+    "setNumber": "107",
+    "rarity": "2d",
+    "cardName": "Alolan Raticate"
+  },
+  "108": {
+    "setNumber": "108",
+    "rarity": "1d",
+    "cardName": "Alolan Meowth"
+  },
+  "109": {
+    "setNumber": "109",
+    "rarity": "3d",
+    "cardName": "Alolan Persian"
+  },
+  "110": {
+    "setNumber": "110",
+    "rarity": "1d",
+    "cardName": "Alolan Grimer"
+  },
+  "111": {
+    "setNumber": "111",
+    "rarity": "4d",
+    "cardName": "Alolan Muk ex"
+  },
+  "112": {
+    "setNumber": "112",
+    "rarity": "3d",
+    "cardName": "Absol"
+  },
+  "113": {
+    "setNumber": "113",
+    "rarity": "1d",
+    "cardName": "Trubbish"
+  },
+  "114": {
+    "setNumber": "114",
+    "rarity": "2d",
+    "cardName": "Garbodor"
+  },
+  "115": {
+    "setNumber": "115",
+    "rarity": "1d",
+    "cardName": "Mareanie"
+  },
+  "116": {
+    "setNumber": "116",
+    "rarity": "1d",
+    "cardName": "Toxapex"
+  },
+  "117": {
+    "setNumber": "117",
+    "rarity": "1d",
+    "cardName": "Alolan Diglett"
+  },
+  "118": {
+    "setNumber": "118",
+    "rarity": "1d",
+    "cardName": "Alolan Dugtrio"
+  },
+  "119": {
+    "setNumber": "119",
+    "rarity": "2d",
+    "cardName": "Excadrill"
+  },
+  "120": {
+    "setNumber": "120",
+    "rarity": "2d",
+    "cardName": "Escavalier"
+  },
+  "121": {
+    "setNumber": "121",
+    "rarity": "3d",
+    "cardName": "Klefki"
+  },
+  "122": {
+    "setNumber": "122",
+    "rarity": "4d",
+    "cardName": "Solgaleo ex"
+  },
+  "123": {
+    "setNumber": "123",
+    "rarity": "3d",
+    "cardName": "Magearna"
+  },
+  "124": {
+    "setNumber": "124",
+    "rarity": "3d",
+    "cardName": "Drampa"
+  },
+  "125": {
+    "setNumber": "125",
+    "rarity": "1d",
+    "cardName": "Jangmo-o"
+  },
+  "126": {
+    "setNumber": "126",
+    "rarity": "2d",
+    "cardName": "Hakamo-o"
+  },
+  "127": {
+    "setNumber": "127",
+    "rarity": "3d",
+    "cardName": "Kommo-o"
+  },
+  "128": {
+    "setNumber": "128",
+    "rarity": "2d",
+    "cardName": "Tauros"
+  },
+  "129": {
+    "setNumber": "129",
+    "rarity": "1d",
+    "cardName": "Skitty"
+  },
+  "130": {
+    "setNumber": "130",
+    "rarity": "2d",
+    "cardName": "Delcatty"
+  },
+  "131": {
+    "setNumber": "131",
+    "rarity": "1d",
+    "cardName": "Fletchling"
+  },
+  "132": {
+    "setNumber": "132",
+    "rarity": "2d",
+    "cardName": "Hawlucha"
+  },
+  "133": {
+    "setNumber": "133",
+    "rarity": "1d",
+    "cardName": "Pikipek"
+  },
+  "134": {
+    "setNumber": "134",
+    "rarity": "1d",
+    "cardName": "Trumbeak"
+  },
+  "135": {
+    "setNumber": "135",
+    "rarity": "2d",
+    "cardName": "Toucannon"
+  },
+  "136": {
+    "setNumber": "136",
+    "rarity": "1d",
+    "cardName": "Yungoos"
+  },
+  "137": {
+    "setNumber": "137",
+    "rarity": "1d",
+    "cardName": "Gumshoos"
+  },
+  "138": {
+    "setNumber": "138",
+    "rarity": "1d",
+    "cardName": "Stufful"
+  },
+  "139": {
+    "setNumber": "139",
+    "rarity": "3d",
+    "cardName": "Bewear"
+  },
+  "140": {
+    "setNumber": "140",
+    "rarity": "3d",
+    "cardName": "Oranguru"
+  },
+  "141": {
+    "setNumber": "141",
+    "rarity": "2d",
+    "cardName": "Komala"
+  },
+  "142": {
+    "setNumber": "142",
+    "rarity": "2d",
+    "cardName": "Big Malasada"
+  },
+  "143": {
+    "setNumber": "143",
+    "rarity": "2d",
+    "cardName": "Fishing Net"
+  },
+  "144": {
+    "setNumber": "144",
+    "rarity": "2d",
+    "cardName": "Rare Candy"
+  },
+  "145": {
+    "setNumber": "145",
+    "rarity": "2d",
+    "cardName": "Rotom Dex"
+  },
+  "146": {
+    "setNumber": "146",
+    "rarity": "2d",
+    "cardName": "Poison Barb"
+  },
+  "147": {
+    "setNumber": "147",
+    "rarity": "2d",
+    "cardName": "Leaf Cape"
+  },
+  "148": {
+    "setNumber": "148",
+    "rarity": "2d",
+    "cardName": "Acerola"
+  },
+  "149": {
+    "setNumber": "149",
+    "rarity": "2d",
+    "cardName": "Ilima"
+  },
+  "150": {
+    "setNumber": "150",
+    "rarity": "2d",
+    "cardName": "Kiawe"
+  },
+  "151": {
+    "setNumber": "151",
+    "rarity": "2d",
+    "cardName": "Guzma"
+  },
+  "152": {
+    "setNumber": "152",
+    "rarity": "2d",
+    "cardName": "Lana"
+  },
+  "153": {
+    "setNumber": "153",
+    "rarity": "2d",
+    "cardName": "Sophocles"
+  },
+  "154": {
+    "setNumber": "154",
+    "rarity": "2d",
+    "cardName": "Mallow"
+  },
+  "155": {
+    "setNumber": "155",
+    "rarity": "2d",
+    "cardName": "Lillie"
+  },
+  "156": {
+    "setNumber": "156",
+    "rarity": "1s",
+    "cardName": "Alolan Exeggutor"
+  },
+  "157": {
+    "setNumber": "157",
+    "rarity": "1s",
+    "cardName": "Morelull"
+  },
+  "158": {
+    "setNumber": "158",
+    "rarity": "1s",
+    "cardName": "Tsareena"
+  },
+  "159": {
+    "setNumber": "159",
+    "rarity": "1s",
+    "cardName": "Tapu Bulu"
+  },
+  "160": {
+    "setNumber": "160",
+    "rarity": "1s",
+    "cardName": "Alolan Marowak"
+  },
+  "161": {
+    "setNumber": "161",
+    "rarity": "1s",
+    "cardName": "Turtonator"
+  },
+  "162": {
+    "setNumber": "162",
+    "rarity": "1s",
+    "cardName": "Alolan Vulpix"
+  },
+  "163": {
+    "setNumber": "163",
+    "rarity": "1s",
+    "cardName": "Pyukumuku"
+  },
+  "164": {
+    "setNumber": "164",
+    "rarity": "1s",
+    "cardName": "Tapu Fini"
+  },
+  "165": {
+    "setNumber": "165",
+    "rarity": "1s",
+    "cardName": "Oricorio"
+  },
+  "166": {
+    "setNumber": "166",
+    "rarity": "1s",
+    "cardName": "Tapu Koko"
+  },
+  "167": {
+    "setNumber": "167",
+    "rarity": "1s",
+    "cardName": "Cutiefly"
+  },
+  "168": {
+    "setNumber": "168",
+    "rarity": "1s",
+    "cardName": "Comfey"
+  },
+  "169": {
+    "setNumber": "169",
+    "rarity": "1s",
+    "cardName": "Sandygast"
+  },
+  "170": {
+    "setNumber": "170",
+    "rarity": "1s",
+    "cardName": "Tapu Lele"
+  },
+  "171": {
+    "setNumber": "171",
+    "rarity": "1s",
+    "cardName": "Cosmog"
+  },
+  "172": {
+    "setNumber": "172",
+    "rarity": "1s",
+    "cardName": "Rockruff"
+  },
+  "173": {
+    "setNumber": "173",
+    "rarity": "1s",
+    "cardName": "Mudsdale"
+  },
+  "174": {
+    "setNumber": "174",
+    "rarity": "1s",
+    "cardName": "Minior"
+  },
+  "175": {
+    "setNumber": "175",
+    "rarity": "1s",
+    "cardName": "Magearna"
+  },
+  "176": {
+    "setNumber": "176",
+    "rarity": "1s",
+    "cardName": "Drampa"
+  },
+  "177": {
+    "setNumber": "177",
+    "rarity": "1s",
+    "cardName": "Pikipek"
+  },
+  "178": {
+    "setNumber": "178",
+    "rarity": "1s",
+    "cardName": "Bewear"
+  },
+  "179": {
+    "setNumber": "179",
+    "rarity": "1s",
+    "cardName": "Komala"
+  },
+  "180": {
+    "setNumber": "180",
+    "rarity": "2s",
+    "cardName": "Decidueye ex"
+  },
+  "181": {
+    "setNumber": "181",
+    "rarity": "2s",
+    "cardName": "Dhelmise ex"
+  },
+  "182": {
+    "setNumber": "182",
+    "rarity": "2s",
+    "cardName": "Incineroar ex"
+  },
+  "183": {
+    "setNumber": "183",
+    "rarity": "2s",
+    "cardName": "Crabominable ex"
+  },
+  "184": {
+    "setNumber": "184",
+    "rarity": "2s",
+    "cardName": "Wishiwashi ex"
+  },
+  "185": {
+    "setNumber": "185",
+    "rarity": "2s",
+    "cardName": "Alolan Raichu ex"
+  },
+  "186": {
+    "setNumber": "186",
+    "rarity": "2s",
+    "cardName": "Lunala ex"
+  },
+  "187": {
+    "setNumber": "187",
+    "rarity": "2s",
+    "cardName": "Passimian ex"
+  },
+  "188": {
+    "setNumber": "188",
+    "rarity": "2s",
+    "cardName": "Alolan Muk ex"
+  },
+  "189": {
+    "setNumber": "189",
+    "rarity": "2s",
+    "cardName": "Solgaleo ex"
+  },
+  "190": {
+    "setNumber": "190",
+    "rarity": "2s",
+    "cardName": "Acerola"
+  },
+  "191": {
+    "setNumber": "191",
+    "rarity": "2s",
+    "cardName": "Ilima"
+  },
+  "192": {
+    "setNumber": "192",
+    "rarity": "2s",
+    "cardName": "Kiawe"
+  },
+  "193": {
+    "setNumber": "193",
+    "rarity": "2s",
+    "cardName": "Guzma"
+  },
+  "194": {
+    "setNumber": "194",
+    "rarity": "2s",
+    "cardName": "Lana"
+  },
+  "195": {
+    "setNumber": "195",
+    "rarity": "2s",
+    "cardName": "Sophocles"
+  },
+  "196": {
+    "setNumber": "196",
+    "rarity": "2s",
+    "cardName": "Mallow"
+  },
+  "197": {
+    "setNumber": "197",
+    "rarity": "2s",
+    "cardName": "Lillie"
+  },
+  "198": {
+    "setNumber": "198",
+    "rarity": "2s",
+    "cardName": "Decidueye ex"
+  },
+  "199": {
+    "setNumber": "199",
+    "rarity": "2s",
+    "cardName": "Dhelmise ex"
+  },
+  "200": {
+    "setNumber": "200",
+    "rarity": "2s",
+    "cardName": "Incineroar ex"
+  },
+  "201": {
+    "setNumber": "201",
+    "rarity": "2s",
+    "cardName": "Crabominable ex"
+  },
+  "202": {
+    "setNumber": "202",
+    "rarity": "2s",
+    "cardName": "Wishiwashi ex"
+  },
+  "203": {
+    "setNumber": "203",
+    "rarity": "2s",
+    "cardName": "Alolan Raichu ex"
+  },
+  "204": {
+    "setNumber": "204",
+    "rarity": "2s",
+    "cardName": "Lunala ex"
+  },
+  "205": {
+    "setNumber": "205",
+    "rarity": "2s",
+    "cardName": "Passimian ex"
+  },
+  "206": {
+    "setNumber": "206",
+    "rarity": "2s",
+    "cardName": "Alolan Muk ex"
+  },
+  "207": {
+    "setNumber": "207",
+    "rarity": "2s",
+    "cardName": "Solgaleo ex"
+  },
+  "208": {
+    "setNumber": "208",
+    "rarity": "3s",
+    "cardName": "Guzma"
+  },
+  "209": {
+    "setNumber": "209",
+    "rarity": "3s",
+    "cardName": "Lillie"
+  },
+  "210": {
+    "setNumber": "210",
+    "rarity": "1sh",
+    "cardName": "Bulbasaur"
+  },
+  "211": {
+    "setNumber": "211",
+    "rarity": "1sh",
+    "cardName": "Ivysaur"
+  },
+  "212": {
+    "setNumber": "212",
+    "rarity": "1sh",
+    "cardName": "Venusaur"
+  },
+  "213": {
+    "setNumber": "213",
+    "rarity": "1sh",
+    "cardName": "Exeggcute"
+  },
+  "214": {
+    "setNumber": "214",
+    "rarity": "1sh",
+    "cardName": "Exeggutor"
+  },
+  "215": {
+    "setNumber": "215",
+    "rarity": "1sh",
+    "cardName": "Squirtle"
+  },
+  "216": {
+    "setNumber": "216",
+    "rarity": "1sh",
+    "cardName": "Wartortle"
+  },
+  "217": {
+    "setNumber": "217",
+    "rarity": "1sh",
+    "cardName": "Blastoise"
+  },
+  "218": {
+    "setNumber": "218",
+    "rarity": "1sh",
+    "cardName": "Staryu"
+  },
+  "219": {
+    "setNumber": "219",
+    "rarity": "1sh",
+    "cardName": "Starmie"
+  },
+  "220": {
+    "setNumber": "220",
+    "rarity": "1sh",
+    "cardName": "Gastly"
+  },
+  "221": {
+    "setNumber": "221",
+    "rarity": "1sh",
+    "cardName": "Haunter"
+  },
+  "222": {
+    "setNumber": "222",
+    "rarity": "1sh",
+    "cardName": "Gengar"
+  },
+  "223": {
+    "setNumber": "223",
+    "rarity": "1sh",
+    "cardName": "Machop"
+  },
+  "224": {
+    "setNumber": "224",
+    "rarity": "1sh",
+    "cardName": "Machoke"
+  },
+  "225": {
+    "setNumber": "225",
+    "rarity": "1sh",
+    "cardName": "Machamp"
+  },
+  "226": {
+    "setNumber": "226",
+    "rarity": "1sh",
+    "cardName": "Cubone"
+  },
+  "227": {
+    "setNumber": "227",
+    "rarity": "1sh",
+    "cardName": "Marowak"
+  },
+  "228": {
+    "setNumber": "228",
+    "rarity": "1sh",
+    "cardName": "Jigglypuff"
+  },
+  "229": {
+    "setNumber": "229",
+    "rarity": "1sh",
+    "cardName": "Wigglytuff"
+  },
+  "230": {
+    "setNumber": "230",
+    "rarity": "2sh",
+    "cardName": "Venusaur ex"
+  },
+  "231": {
+    "setNumber": "231",
+    "rarity": "2sh",
+    "cardName": "Exeggutor ex"
+  },
+  "232": {
+    "setNumber": "232",
+    "rarity": "2sh",
+    "cardName": "Blastoise ex"
+  },
+  "233": {
+    "setNumber": "233",
+    "rarity": "2sh",
+    "cardName": "Starmie ex"
+  },
+  "234": {
+    "setNumber": "234",
+    "rarity": "2sh",
+    "cardName": "Gengar ex"
+  },
+  "235": {
+    "setNumber": "235",
+    "rarity": "2sh",
+    "cardName": "Machamp ex"
+  },
+  "236": {
+    "setNumber": "236",
+    "rarity": "2sh",
+    "cardName": "Marowak ex"
+  },
+  "237": {
+    "setNumber": "237",
+    "rarity": "2sh",
+    "cardName": "Wigglytuff ex"
+  },
+  "238": {
+    "setNumber": "238",
+    "rarity": "1c",
+    "cardName": "Lunala ex"
+  },
+  "239": {
+    "setNumber": "239",
+    "rarity": "1c",
+    "cardName": "Solgaleo ex"
+  }
+}

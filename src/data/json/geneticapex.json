@@ -1074,6 +1074,61 @@
     "rarity": "1d",
     "cardName": "Dubwool"
   },
+  "216": {
+    "setNumber": "216",
+    "rarity": "1d",
+    "cardName": "Helix Fossil"
+  },
+  "217": {
+    "setNumber": "217",
+    "rarity": "1d",
+    "cardName": "Dome Fossil"
+  },
+  "218": {
+    "setNumber": "218",
+    "rarity": "1d",
+    "cardName": "Old Amber"
+  },
+  "219": {
+    "setNumber": "219",
+    "rarity": "2d",
+    "cardName": "Erika"
+  },
+  "220": {
+    "setNumber": "220",
+    "rarity": "2d",
+    "cardName": "Misty"
+  },
+  "221": {
+    "setNumber": "221",
+    "rarity": "2d",
+    "cardName": "Blaine"
+  },
+  "222": {
+    "setNumber": "222",
+    "rarity": "2d",
+    "cardName": "Koga"
+  },
+  "223": {
+    "setNumber": "223",
+    "rarity": "2d",
+    "cardName": "Giovanni"
+  },
+  "224": {
+    "setNumber": "224",
+    "rarity": "2d",
+    "cardName": "Brock"
+  },
+  "225": {
+    "setNumber": "225",
+    "rarity": "2d",
+    "cardName": "Sabrina"
+  },
+  "226": {
+    "setNumber": "226",
+    "rarity": "2d",
+    "cardName": "Lt. Surge"
+  },
   "227": {
     "setNumber": "227",
     "rarity": "1s",
@@ -1268,6 +1323,46 @@
     "setNumber": "265",
     "rarity": "2s",
     "cardName": "Wigglytuff ex"
+  },
+  "266": {
+    "setNumber": "266",
+    "rarity": "2s",
+    "cardName": "Erika"
+  },
+  "267": {
+    "setNumber": "267",
+    "rarity": "2s",
+    "cardName": "Misty"
+  },
+  "268": {
+    "setNumber": "268",
+    "rarity": "2s",
+    "cardName": "Blaine"
+  },
+  "269": {
+    "setNumber": "269",
+    "rarity": "2s",
+    "cardName": "Koga"
+  },
+  "270": {
+    "setNumber": "270",
+    "rarity": "2s",
+    "cardName": "Giovanni"
+  },
+  "271": {
+    "setNumber": "271",
+    "rarity": "2s",
+    "cardName": "Brock"
+  },
+  "272": {
+    "setNumber": "272",
+    "rarity": "2s",
+    "cardName": "Sabrina"
+  },
+  "273": {
+    "setNumber": "273",
+    "rarity": "2s",
+    "cardName": "Lt. Surge"
   },
   "274": {
     "setNumber": "274",

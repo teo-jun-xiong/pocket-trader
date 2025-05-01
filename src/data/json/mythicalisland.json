@@ -309,6 +309,36 @@
     "rarity": "1d",
     "cardName": "Chatot"
   },
+  "63": {
+    "setNumber": "63",
+    "rarity": "1d",
+    "cardName": "Old Amber"
+  },
+  "64": {
+    "setNumber": "64",
+    "rarity": "2d",
+    "cardName": "Pokemon Flute"
+  },
+  "65": {
+    "setNumber": "65",
+    "rarity": "2d",
+    "cardName": "Mythical Slab"
+  },
+  "66": {
+    "setNumber": "66",
+    "rarity": "2d",
+    "cardName": "Budding Expeditioner"
+  },
+  "67": {
+    "setNumber": "67",
+    "rarity": "2d",
+    "cardName": "Blue"
+  },
+  "68": {
+    "setNumber": "68",
+    "rarity": "2d",
+    "cardName": "Leaf"
+  },
   "69": {
     "setNumber": "69",
     "rarity": "1s",
@@ -363,6 +393,21 @@
     "setNumber": "79",
     "rarity": "2s",
     "cardName": "Pidgeot ex"
+  },
+  "80": {
+    "setNumber": "80",
+    "rarity": "2s",
+    "cardName": "Budding Expeditioner"
+  },
+  "81": {
+    "setNumber": "81",
+    "rarity": "2s",
+    "cardName": "Blue"
+  },
+  "82": {
+    "setNumber": "82",
+    "rarity": "2s",
+    "cardName": "Leaf"
   },
   "83": {
     "setNumber": "83",

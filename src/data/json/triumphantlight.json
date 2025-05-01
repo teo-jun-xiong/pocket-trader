@@ -354,6 +354,26 @@
     "rarity": "4d",
     "cardName": "Arceus ex"
   },
+  "72": {
+    "setNumber": "72",
+    "rarity": "2d",
+    "cardName": "Irida"
+  },
+  "73": {
+    "setNumber": "73",
+    "rarity": "2d",
+    "cardName": "Celestic Town Elder"
+  },
+  "74": {
+    "setNumber": "74",
+    "rarity": "2d",
+    "cardName": "Barry"
+  },
+  "75": {
+    "setNumber": "75",
+    "rarity": "2d",
+    "cardName": "Adaman"
+  },
   "76": {
     "setNumber": "76",
     "rarity": "1s",
@@ -408,6 +428,26 @@
     "setNumber": "86",
     "rarity": "2s",
     "cardName": "Arceus ex"
+  },
+  "87": {
+    "setNumber": "87",
+    "rarity": "2s",
+    "cardName": "Irida"
+  },
+  "88": {
+    "setNumber": "88",
+    "rarity": "2s",
+    "cardName": "Celestic Town Elder"
+  },
+  "89": {
+    "setNumber": "89",
+    "rarity": "2s",
+    "cardName": "Barry"
+  },
+  "90": {
+    "setNumber": "90",
+    "rarity": "2s",
+    "cardName": "Adaman"
   },
   "91": {
     "setNumber": "91",

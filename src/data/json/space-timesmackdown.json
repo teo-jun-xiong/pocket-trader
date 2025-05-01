@@ -714,6 +714,66 @@
     "rarity": "3d",
     "cardName": "Regigigas"
   },
+  "144": {
+    "setNumber": "144",
+    "rarity": "1d",
+    "cardName": "Skull Fossil"
+  },
+  "145": {
+    "setNumber": "145",
+    "rarity": "1d",
+    "cardName": "Armor Fossil"
+  },
+  "146": {
+    "setNumber": "146",
+    "rarity": "2d",
+    "cardName": "Pokemon Communication"
+  },
+  "147": {
+    "setNumber": "147",
+    "rarity": "2d",
+    "cardName": "Giant Cape"
+  },
+  "148": {
+    "setNumber": "148",
+    "rarity": "2d",
+    "cardName": "Rocky Helmet"
+  },
+  "149": {
+    "setNumber": "149",
+    "rarity": "2d",
+    "cardName": "Lum Berry"
+  },
+  "150": {
+    "setNumber": "150",
+    "rarity": "2d",
+    "cardName": "Cyrus"
+  },
+  "151": {
+    "setNumber": "151",
+    "rarity": "2d",
+    "cardName": "Team Galactic Grunt"
+  },
+  "152": {
+    "setNumber": "152",
+    "rarity": "2d",
+    "cardName": "Cynthia"
+  },
+  "153": {
+    "setNumber": "153",
+    "rarity": "2d",
+    "cardName": "Volkner"
+  },
+  "154": {
+    "setNumber": "154",
+    "rarity": "2d",
+    "cardName": "Dawn"
+  },
+  "155": {
+    "setNumber": "155",
+    "rarity": "2d",
+    "cardName": "Mars"
+  },
   "156": {
     "setNumber": "156",
     "rarity": "1s",
@@ -883,6 +943,36 @@
     "setNumber": "189",
     "rarity": "2s",
     "cardName": "Lickilicky ex"
+  },
+  "190": {
+    "setNumber": "190",
+    "rarity": "2s",
+    "cardName": "Cyrus"
+  },
+  "191": {
+    "setNumber": "191",
+    "rarity": "2s",
+    "cardName": "Team Galactic Grunt"
+  },
+  "192": {
+    "setNumber": "192",
+    "rarity": "2s",
+    "cardName": "Cynthia"
+  },
+  "193": {
+    "setNumber": "193",
+    "rarity": "2s",
+    "cardName": "Volkner"
+  },
+  "194": {
+    "setNumber": "194",
+    "rarity": "2s",
+    "cardName": "Dawn"
+  },
+  "195": {
+    "setNumber": "195",
+    "rarity": "2s",
+    "cardName": "Mars"
   },
   "196": {
     "setNumber": "196",

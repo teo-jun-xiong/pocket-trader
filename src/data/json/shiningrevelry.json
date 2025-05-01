@@ -339,6 +339,26 @@
     "rarity": "2d",
     "cardName": "Cyclizar"
   },
+  "69": {
+    "setNumber": "69",
+    "rarity": "2d",
+    "cardName": "Iono"
+  },
+  "70": {
+    "setNumber": "70",
+    "rarity": "2d",
+    "cardName": "Pokemon Center Lady"
+  },
+  "71": {
+    "setNumber": "71",
+    "rarity": "2d",
+    "cardName": "Red"
+  },
+  "72": {
+    "setNumber": "72",
+    "rarity": "2d",
+    "cardName": "Team Rocket Grunt"
+  },
   "73": {
     "setNumber": "73",
     "rarity": "1s",
@@ -413,6 +433,26 @@
     "setNumber": "87",
     "rarity": "2s",
     "cardName": "Bibarel ex"
+  },
+  "88": {
+    "setNumber": "88",
+    "rarity": "2s",
+    "cardName": "Iono"
+  },
+  "89": {
+    "setNumber": "89",
+    "rarity": "2s",
+    "cardName": "Pokemon Center Lady"
+  },
+  "90": {
+    "setNumber": "90",
+    "rarity": "2s",
+    "cardName": "Red"
+  },
+  "91": {
+    "setNumber": "91",
+    "rarity": "2s",
+    "cardName": "Team Rocket Grunt"
   },
   "92": {
     "setNumber": "92",
@@ -508,5 +548,10 @@
     "setNumber": "110",
     "rarity": "2sh",
     "cardName": "Lucario ex"
+  },
+  "111": {
+    "setNumber": "111",
+    "rarity": "1c",
+    "cardName": "Poke Ball"
   }
 }
